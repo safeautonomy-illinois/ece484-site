@@ -1,0 +1,33 @@
+site_name: ECE484 Principles of Safe Autonomy
+site_url: https://safeautonomy-illinois.github.io/ece484-site/
+repo_url: https://github.com/safeautonomy-illinois/ece484-site
+edit_uri: edit/main/docs/
+
+theme:
+  name: material
+  features:
+    - navigation.tabs
+    - navigation.sections
+    - search.suggest
+    - search.highlight
+
+plugins:
+  - search
+
+nav:
+  - Overview: index.md
+  - Lectures: spring-2026/lectures.md
+  - Assignments: spring-2026/assignments.md
+  - Team: spring-2026/team.md
+  - Projects: spring-2026/projects.md
+  - Resources: spring-2026/resources.md
+  - Policies: spring-2026/policies.md
+  - Archive:
+      - Fall 2025:
+          - Overview: archive/fall-2025/index.md
+          - Lectures: archive/fall-2025/lectures.md
+          - Assignments: archive/fall-2025/assignments.md
+          - Team: archive/fall-2025/team.md
+          - Projects: archive/fall-2025/projects.md
+          - Resources: archive/fall-2025/resources.md
+          - Policies: archive/fall-2025/policies.md
