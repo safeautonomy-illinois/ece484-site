@@ -2,11 +2,11 @@
 
 **Welcome to ECE484: Principles of Safe Autonomy, Spring 2026 edition.**
 
-In this class, you will learn fundamental models, concepts, and algorithms for autonomy (e.g., 3D vision, planning, control, filtering, invariance, stability, and verification), gain experience with software tools (e.g., ROS, Gazebo, OpenAI gym), and deploy implementation of your ideas on aerial and ground vehicles!
+Dive into the core ideas that make autonomy possible—3D vision, planning, control, filtering, stability, and verification—then bring them to life with ROS, Gazebo, and OpenAI Gym as you deploy your own algorithms on real aerial and ground vehicles!
 
 The class meets **Tuesdays and Thursdays at 11:00am-12:20pm in ECEB 1015.**
 
-Instructor: Prof. [Huan Zhang](https://www.huan-zhang.com/) and Prof. [Sayan Mitra](https://mitras.ece.illinois.edu/) (Chicago section)
+Instructor:  Prof. [Sayan Mitra](https://mitras.ece.illinois.edu/) 
 
 <table style="border-collapse:collapse; border:none;">
   <tr>
@@ -44,10 +44,5 @@ Instructor: Prof. [Huan Zhang](https://www.huan-zhang.com/) and Prof. [Sayan Mit
   </tr>
 </table>
 
-Content contributors: [Daniel Zhuang](https://www.linkedin.com/in/daniel-zhuang-9b1864180/), [John Pohovey](https://jhpohovey.github.io), [Yan Miao](https://yanmiao.netlify.app), [Hanna Chen](https://www.linkedin.com/in/hanna-chen-078389223/), [Hyoungju Lim](https://www.linkedin.com/in/hyoungju-lim-656972285/), [Haonan Chen](https://www.linkedin.com/in/haonan-chen-7a4339153/), [Will Chen](https://www.linkedin.com/in/hongyu-chen-91996b22b/), [Jai Anchalia](https://www.linkedin.com/in/jai-anchalia/), [Sidharth Anand](https://www.linkedin.com/in/anand-sidharth/), [Tanvi Kulkarni](https://www.linkedin.com/in/tanvikulk/), [Karteek Gandiboyina](https://www.linkedin.com/in/muralikarteek7/), [Praveen Natarajan](https://www.linkedin.com/in/praveennatarajan123/), [Hongyi Li](hli106@illinois.edu), [Ye-Ji Mun](https://yejimun.github.io), Katherine Braught, [Tianchen Ji](https://tianchenji.github.io), Pranav Sriram, [Qichao Gao](https://www.linkedin.com/in/qichaogao/), [Aamir Hasan](https://aamzhas.github.io), [Minghao Jiang](https://www.linkedin.com/in/minghao-jiang-4a212a127/), Pulkit Katdare, [Yangge Li](https://www.linkedin.com/in/yangge-li-307b4114a/), [Ted Liu](https://www.linkedin.com/in/tianqi-ted-liu-a67647a5/), [Hebron Taylor](https://www.linkedin.com/in/hebron-taylor-9aa1671a0/)
-
-[Hang Cui](https://hangpersonal.com/), Jiaming Zhang, Suraj Nair
-
-Student content contributers:
-
+Content contributors: [Daniel Zhuang](https://www.linkedin.com/in/daniel-zhuang-9b1864180/), [John Pohovey](https://jhpohovey.github.io), [Yan Miao](https://yanmiao.netlify.app), [Hanna Chen](https://www.linkedin.com/in/hanna-chen-078389223/), [Hyoungju Lim](https://www.linkedin.com/in/hyoungju-lim-656972285/), [Haonan Chen](https://www.linkedin.com/in/haonan-chen-7a4339153/), [Will Chen](https://www.linkedin.com/in/hongyu-chen-91996b22b/), [Jai Anchalia](https://www.linkedin.com/in/jai-anchalia/), [Sidharth Anand](https://www.linkedin.com/in/anand-sidharth/), [Tanvi Kulkarni](https://www.linkedin.com/in/tanvikulk/), [Karteek Gandiboyina](https://www.linkedin.com/in/muralikarteek7/), [Praveen Natarajan](https://www.linkedin.com/in/praveennatarajan123/), [Hongyi Li](hli106@illinois.edu), [Ye-Ji Mun](https://yejimun.github.io), Katherine Braught, [Tianchen Ji](https://tianchenji.github.io), Pranav Sriram, [Qichao Gao](https://www.linkedin.com/in/qichaogao/), [Aamir Hasan](https://aamzhas.github.io), [Minghao Jiang](https://www.linkedin.com/in/minghao-jiang-4a212a127/), Pulkit Katdare, [Yangge Li](https://www.linkedin.com/in/yangge-li-307b4114a/), [Ted Liu](https://www.linkedin.com/in/tianqi-ted-liu-a67647a5/), [Hebron Taylor](https://www.linkedin.com/in/hebron-taylor-9aa1671a0/), [Hang Cui](https://hangpersonal.com/), Jiaming Zhang, Suraj Nair,
 [Harish Kumar Balaji](https://www.linkedin.com/in/harishkumarbalaji/), [Vikram Raj Nagoor Kani](https://vikramraj.netlify.app/), Manan Hitesh Maheshwari, Vikram Battalapalli, Don Lazatin, Cheng Zhu, Dhruv Agarwal, Aditya Pillai
