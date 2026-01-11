@@ -46,6 +46,8 @@
       
     
     
+      <link rel="stylesheet" href="stylesheets/extra.css">
+    
     <script>__md_scope=new URL(".",location),__md_hash=e=>[...e].reduce(((e,_)=>(e<<5)-e+_.charCodeAt(0)),0),__md_get=(e,_=localStorage,t=__md_scope)=>JSON.parse(_.getItem(t.pathname+"."+e)),__md_set=(e,_,t=localStorage,a=__md_scope)=>{try{t.setItem(a.pathname+"."+e,JSON.stringify(_))}catch(e){}}</script>
     
       
@@ -81,7 +83,7 @@
     <a href="." title="ECE484 Principles of Safe Autonomy" class="md-header__button md-logo" aria-label="ECE484 Principles of Safe Autonomy" data-md-component="logo">
       
   
-  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M12 8a3 3 0 0 0 3-3 3 3 0 0 0-3-3 3 3 0 0 0-3 3 3 3 0 0 0 3 3m0 3.54C9.64 9.35 6.5 8 3 8v11c3.5 0 6.64 1.35 9 3.54 2.36-2.19 5.5-3.54 9-3.54V8c-3.5 0-6.64 1.35-9 3.54"/></svg>
+  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M12 2a2 2 0 0 1 2 2c0 .74-.4 1.39-1 1.73V7h1a7 7 0 0 1 7 7h1a1 1 0 0 1 1 1v3a1 1 0 0 1-1 1h-1v1a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-1H2a1 1 0 0 1-1-1v-3a1 1 0 0 1 1-1h1a7 7 0 0 1 7-7h1V5.73c-.6-.34-1-.99-1-1.73a2 2 0 0 1 2-2M7.5 13A2.5 2.5 0 0 0 5 15.5 2.5 2.5 0 0 0 7.5 18a2.5 2.5 0 0 0 2.5-2.5A2.5 2.5 0 0 0 7.5 13m9 0a2.5 2.5 0 0 0-2.5 2.5 2.5 2.5 0 0 0 2.5 2.5 2.5 2.5 0 0 0 2.5-2.5 2.5 2.5 0 0 0-2.5-2.5"/></svg>
 
     </a>
     <label class="md-header__button md-icon" for="__drawer">
@@ -369,7 +371,7 @@
     <a href="." title="ECE484 Principles of Safe Autonomy" class="md-nav__button md-logo" aria-label="ECE484 Principles of Safe Autonomy" data-md-component="logo">
       
   
-  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M12 8a3 3 0 0 0 3-3 3 3 0 0 0-3-3 3 3 0 0 0-3 3 3 3 0 0 0 3 3m0 3.54C9.64 9.35 6.5 8 3 8v11c3.5 0 6.64 1.35 9 3.54 2.36-2.19 5.5-3.54 9-3.54V8c-3.5 0-6.64 1.35-9 3.54"/></svg>
+  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M12 2a2 2 0 0 1 2 2c0 .74-.4 1.39-1 1.73V7h1a7 7 0 0 1 7 7h1a1 1 0 0 1 1 1v3a1 1 0 0 1-1 1h-1v1a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-1H2a1 1 0 0 1-1-1v-3a1 1 0 0 1 1-1h1a7 7 0 0 1 7-7h1V5.73c-.6-.34-1-.99-1-1.73a2 2 0 0 1 2-2M7.5 13A2.5 2.5 0 0 0 5 15.5 2.5 2.5 0 0 0 7.5 18a2.5 2.5 0 0 0 2.5-2.5A2.5 2.5 0 0 0 7.5 13m9 0a2.5 2.5 0 0 0-2.5 2.5 2.5 2.5 0 0 0 2.5 2.5 2.5 2.5 0 0 0 2.5-2.5 2.5 2.5 0 0 0-2.5-2.5"/></svg>
 
     </a>
     ECE484 Principles of Safe Autonomy
@@ -942,48 +944,107 @@
 
 
 <h1 id="overview-spring-2026">Overview - Spring 2026</h1>
-<p><strong>Welcome to ECE484: Principles of Safe Autonomy, Spring 2026 edition.</strong></p>
-<p>Dive into the core ideas that make autonomy possible—3D vision, planning, control, filtering, stability, and verification—then bring them to life with ROS, Gazebo, and OpenAI Gym as you deploy your own algorithms on real aerial and ground vehicles!</p>
-<p>The class meets <strong>Tuesdays and Thursdays at 11:00am-12:20pm in ECEB 1015.</strong></p>
-<p>Instructor:  Prof. <a href="https://mitras.ece.illinois.edu/">Sayan Mitra</a> </p>
-<table style="border-collapse:collapse; border:none;">
-  <tr>
-    <td style="border:none; padding:6px; text-align:center; background:none;">
-      <img src="/ece484-site/images/Screen-Shot-2020-08-18-at-10.29.28-AM.png" alt="Autonomy lab scene">
-    </td>
-    <td style="border:none; padding:6px; text-align:center; background:none;">
-      <img src="/ece484-site/images/highbay1.png" alt="Highbay facility">
-    </td>
-    <td style="border:none; padding:6px; text-align:center; background:none;">
-      <img src="/ece484-site/images/IMG_4166-1024x843.jpg" alt="Autonomous vehicle">
-    </td>
-  </tr>
-  <tr>
-    <td style="border:none; padding:6px; text-align:center; background:none;">
-      <img src="/ece484-site/images/Screen-Shot-2020-08-18-at-10.30.01-AM.png" alt="Lab demo">
-    </td>
-    <td style="border:none; padding:6px; text-align:center; background:none;">
-      <img src="/ece484-site/images/GEM-isometric-up2-bw-1024x889.jpg" alt="GEM vehicle">
-    </td>
-    <td style="border:none; padding:6px; text-align:center; background:none;">
-      <img src="/ece484-site/images/obj_detect_road_v2-1024x819.png" alt="Object detection visualization">
-    </td>
-  </tr>
-  <tr>
-    <td style="border:none; padding:6px; text-align:center; background:none;">
-      <img src="/ece484-site/images/Righthook3.jpeg" alt="Road scenario">
-    </td>
-    <td style="border:none; padding:6px; text-align:center; background:none;">
-      <img src="/ece484-site/images/PF.gif" alt="Particle filter visualization">
-    </td>
-    <td style="border:none; padding:6px; text-align:center; background:none;">
-      <img src="/ece484-site/images/B39B8332-1024x683.jpg" alt="Course activity">
-    </td>
-  </tr>
-</table>
+<div class="sa-hero">
+  <div class="sa-hero-tag">Spring 2026 - ECE 484</div>
+  <h1>Principles of Safe Autonomy</h1>
+  <p class="sa-hero-lede">
+    Dive into the full autonomy stack - perception, localization, planning, control, and safety
+    verification, then bring it to life with ROS, Gazebo, and OpenAI Gym as you deploy your work
+    on real aerial and ground vehicles.
+  </p>
+  <div class="sa-hero-actions">
+    <a class="md-button md-button--primary" href="/ece484-site/spring-2026/lectures/">View schedule</a>
+    <a class="md-button" href="/ece484-site/spring-2026/projects/">Explore projects</a>
+    <a class="md-button" href="/ece484-site/spring-2026/assignments/">Assignments</a>
+  </div>
+</div>
 
-<p>Content contributors: <a href="https://www.linkedin.com/in/daniel-zhuang-9b1864180/">Daniel Zhuang</a>, <a href="https://jhpohovey.github.io">John Pohovey</a>, <a href="https://yanmiao.netlify.app">Yan Miao</a>, <a href="https://www.linkedin.com/in/hanna-chen-078389223/">Hanna Chen</a>, <a href="https://www.linkedin.com/in/hyoungju-lim-656972285/">Hyoungju Lim</a>, <a href="https://www.linkedin.com/in/haonan-chen-7a4339153/">Haonan Chen</a>, <a href="https://www.linkedin.com/in/hongyu-chen-91996b22b/">Will Chen</a>, <a href="https://www.linkedin.com/in/jai-anchalia/">Jai Anchalia</a>, <a href="https://www.linkedin.com/in/anand-sidharth/">Sidharth Anand</a>, <a href="https://www.linkedin.com/in/tanvikulk/">Tanvi Kulkarni</a>, <a href="https://www.linkedin.com/in/muralikarteek7/">Karteek Gandiboyina</a>, <a href="https://www.linkedin.com/in/praveennatarajan123/">Praveen Natarajan</a>, <a href="hli106@illinois.edu">Hongyi Li</a>, <a href="https://yejimun.github.io">Ye-Ji Mun</a>, Katherine Braught, <a href="https://tianchenji.github.io">Tianchen Ji</a>, Pranav Sriram, <a href="https://www.linkedin.com/in/qichaogao/">Qichao Gao</a>, <a href="https://aamzhas.github.io">Aamir Hasan</a>, <a href="https://www.linkedin.com/in/minghao-jiang-4a212a127/">Minghao Jiang</a>, Pulkit Katdare, <a href="https://www.linkedin.com/in/yangge-li-307b4114a/">Yangge Li</a>, <a href="https://www.linkedin.com/in/tianqi-ted-liu-a67647a5/">Ted Liu</a>, <a href="https://www.linkedin.com/in/hebron-taylor-9aa1671a0/">Hebron Taylor</a>, <a href="https://hangpersonal.com/">Hang Cui</a>, Jiaming Zhang, Suraj Nair,
-<a href="https://www.linkedin.com/in/harishkumarbalaji/">Harish Kumar Balaji</a>, <a href="https://vikramraj.netlify.app/">Vikram Raj Nagoor Kani</a>, Manan Hitesh Maheshwari, Vikram Battalapalli, Don Lazatin, Cheng Zhu, Dhruv Agarwal, Aditya Pillai</p>
+<section class="sa-section sa-reveal">
+
+## Course at a glance
+
+<div class="sa-grid">
+  <div class="sa-card">
+    <h3>Meetings</h3>
+    <p>Tuesdays & Thursdays, 11:00am-12:20pm - ECEB 1015</p>
+  </div>
+  <div class="sa-card">
+    <h3>Instructor</h3>
+    <p>Prof. <a href="https://mitras.ece.illinois.edu/">Sayan Mitra</a></p>
+  </div>
+  <div class="sa-card">
+    <h3>Platforms</h3>
+    <p>GEM vehicle, F1-tenth, drones, and simulated fleets</p>
+  </div>
+</div>
+
+</section>
+
+<section class="sa-section sa-reveal">
+
+## Skills you'll build
+
+- Perception & 3D vision
+- Localization, filtering, and state estimation
+- Planning, search, and decision-making
+- Control, stability, and motion models
+- Safety verification and formal methods
+
+</section>
+
+<section class="sa-section sa-reveal">
+
+## Why recruiters care
+
+<div class="sa-grid">
+  <div class="sa-card">
+    <h3>Systems thinking</h3>
+    <p>Build and evaluate end-to-end autonomy pipelines, not just isolated demos.</p>
+  </div>
+  <div class="sa-card">
+    <h3>Evidence of rigor</h3>
+    <p>Formal verification and safety arguments grounded in real data and experiments.</p>
+  </div>
+  <div class="sa-card">
+    <h3>Deployment focus</h3>
+    <p>From simulation to hardware, your work is tested in real environments.</p>
+  </div>
+</div>
+
+</section>
+
+<section class="sa-section sa-reveal">
+
+## Navigate the course
+
+<div class="sa-grid">
+  <div class="sa-card">
+    <h3>Lectures</h3>
+    <p>Weekly topics, slides, and milestones.</p>
+    <p><a href="/ece484-site/spring-2026/lectures/">View the schedule -></a></p>
+  </div>
+  <div class="sa-card">
+    <h3>Projects</h3>
+    <p>Pick a track and build something ambitious.</p>
+    <p><a href="/ece484-site/spring-2026/projects/">Explore projects -></a></p>
+  </div>
+  <div class="sa-card">
+    <h3>Team</h3>
+    <p>Meet the faculty, TAs, and lab support.</p>
+    <p><a href="/ece484-site/spring-2026/team/">Meet the team -></a></p>
+  </div>
+</div>
+
+</section>
+
+<section class="sa-section sa-reveal">
+
+## Contributors
+
+Content contributors: [Daniel Zhuang](https://www.linkedin.com/in/daniel-zhuang-9b1864180/), [John Pohovey](https://jhpohovey.github.io), [Yan Miao](https://yanmiao.netlify.app), [Hanna Chen](https://www.linkedin.com/in/hanna-chen-078389223/), [Hyoungju Lim](https://www.linkedin.com/in/hyoungju-lim-656972285/), [Haonan Chen](https://www.linkedin.com/in/haonan-chen-7a4339153/), [Will Chen](https://www.linkedin.com/in/hongyu-chen-91996b22b/), [Jai Anchalia](https://www.linkedin.com/in/jai-anchalia/), [Sidharth Anand](https://www.linkedin.com/in/anand-sidharth/), [Tanvi Kulkarni](https://www.linkedin.com/in/tanvikulk/), [Karteek Gandiboyina](https://www.linkedin.com/in/muralikarteek7/), [Praveen Natarajan](https://www.linkedin.com/in/praveennatarajan123/), [Hongyi Li](hli106@illinois.edu), [Ye-Ji Mun](https://yejimun.github.io), Katherine Braught, [Tianchen Ji](https://tianchenji.github.io), Pranav Sriram, [Qichao Gao](https://www.linkedin.com/in/qichaogao/), [Aamir Hasan](https://aamzhas.github.io), [Minghao Jiang](https://www.linkedin.com/in/minghao-jiang-4a212a127/), Pulkit Katdare, [Yangge Li](https://www.linkedin.com/in/yangge-li-307b4114a/), [Ted Liu](https://www.linkedin.com/in/tianqi-ted-liu-a67647a5/), [Hebron Taylor](https://www.linkedin.com/in/hebron-taylor-9aa1671a0/), [Hang Cui](https://hangpersonal.com/), Jiaming Zhang, Suraj Nair,
+[Harish Kumar Balaji](https://www.linkedin.com/in/harishkumarbalaji/), [Vikram Raj Nagoor Kani](https://vikramraj.netlify.app/), Manan Hitesh Maheshwari, Vikram Battalapalli, Don Lazatin, Cheng Zhu, Dhruv Agarwal, Aditya Pillai
+
+</section>
 
 
 
@@ -1037,6 +1098,8 @@
     
     
       <script src="assets/javascripts/bundle.79ae519e.min.js"></script>
+      
+        <script src="javascripts/scroll-reveal.js"></script>
       
     
   </body>

@@ -1,0 +1,90 @@
+:root {
+  --sa-hero-overlay: rgba(8, 12, 20, 0.6);
+  --sa-hero-shadow: 0 18px 45px rgba(10, 20, 35, 0.25);
+  --sa-card-border: rgba(20, 30, 45, 0.12);
+}
+
+.sa-hero {
+  position: relative;
+  overflow: hidden;
+  border-radius: 18px;
+  padding: clamp(3.5rem, 8vw, 6.5rem) clamp(1.5rem, 5vw, 3.5rem);
+  color: #f8fafc;
+  background: linear-gradient(120deg, var(--sa-hero-overlay), rgba(6, 10, 20, 0.2)),
+    url("/ece484-site/assets/images/eceb-wright-2.jpg") center/cover no-repeat;
+  box-shadow: var(--sa-hero-shadow);
+  margin: 1.5rem 0 2.5rem;
+}
+
+.sa-hero h1 {
+  font-size: clamp(2.2rem, 3.8vw, 3.4rem);
+  line-height: 1.05;
+  margin: 0.4rem 0 1rem;
+}
+
+.sa-hero-tag {
+  font-size: 0.85rem;
+  text-transform: uppercase;
+  letter-spacing: 0.18em;
+  font-weight: 600;
+}
+
+.sa-hero-lede {
+  font-size: 1.1rem;
+  max-width: 52ch;
+}
+
+.sa-hero-actions {
+  margin-top: 1.5rem;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.8rem;
+}
+
+.sa-section {
+  margin: 2.5rem 0;
+}
+
+.sa-grid {
+  display: grid;
+  gap: 1rem;
+  grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
+}
+
+.sa-card {
+  border: 1px solid var(--sa-card-border);
+  border-radius: 14px;
+  padding: 1.1rem 1.2rem;
+  background: var(--md-default-bg-color);
+  box-shadow: 0 8px 20px rgba(15, 25, 40, 0.08);
+}
+
+.sa-card h3 {
+  margin-top: 0;
+}
+
+html.js .sa-reveal {
+  opacity: 0;
+  transform: translateY(18px);
+  transition: opacity 0.6s ease, transform 0.6s ease;
+}
+
+html.js .sa-reveal.is-visible {
+  opacity: 1;
+  transform: translateY(0);
+}
+
+@media (prefers-reduced-motion: reduce) {
+  html.js .sa-reveal {
+    opacity: 1;
+    transform: none;
+    transition: none;
+  }
+}
+
+@media (max-width: 600px) {
+  .sa-hero-actions {
+    flex-direction: column;
+    align-items: stretch;
+  }
+}
