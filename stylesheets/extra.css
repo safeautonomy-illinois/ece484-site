@@ -13,7 +13,8 @@
   border-radius: 0;
   width: 100vw;
   margin: -0.75rem calc(50% - 50vw) 2.5rem;
-  padding: clamp(6rem, 12vw, 9rem) clamp(1.5rem, 6vw, 6rem) clamp(3rem, 6vw, 5rem);
+  min-height: clamp(28rem, 120vh, 44rem);
+  padding: clamp(7rem, 14vw, 10rem) clamp(1.5rem, 6vw, 6rem) clamp(4rem, 7vw, 6rem);
   color: #f8fafc;
   background: linear-gradient(120deg, var(--sa-hero-overlay), rgba(6, 10, 20, 0.2)),
     url("/ece484-site/assets/images/eceb-wright-2.jpg") center/cover no-repeat;
@@ -29,6 +30,7 @@
   font-size: clamp(2.2rem, 3.8vw, 3.4rem);
   line-height: 1.05;
   margin: 0.4rem 0 1rem;
+  color: #f8fafc;
 }
 
 .sa-hero-tag {
