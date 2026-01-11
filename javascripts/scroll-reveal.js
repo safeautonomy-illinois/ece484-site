@@ -1,5 +1,8 @@
 (() => {
   document.documentElement.classList.add('js');
+  if (document.querySelector('.sa-hero')) {
+    document.body.classList.add('sa-home');
+  }
   const prefersReduced = window.matchMedia('(prefers-reduced-motion: reduce)');
   if (prefersReduced.matches) {
     document.querySelectorAll('.sa-reveal').forEach((el) => {
