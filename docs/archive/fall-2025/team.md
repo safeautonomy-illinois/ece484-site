@@ -4,25 +4,25 @@
 
 |  |  |  |
 | --- | --- | --- |
-| ![](../../images/Huan_Zhang_photo-1.jpg) | ![](../../images/sayan_mitra.jpeg) |  |
+| ![](/ece484-site/images/Huan_Zhang_photo-1.jpg) | ![](/ece484-site/images/sayan_mitra.jpeg) |  |
 | Prof. Huan Zhang (huanz) | Prof. Sayan Mitra (mitras) |  |
 
 ## Grad TAs
 
 |  |  |  |
 | --- | --- | --- |
-| ![](../../images/hanna_chen.jpg) | ![](../../images/IMG_9947-576x1024.jpg) | ![](../../images/IMG_1198-2-1-899x1024.jpg) |
+| ![](/ece484-site/images/hanna_chen.jpg) | ![](/ece484-site/images/IMG_9947-576x1024.jpg) | ![](/ece484-site/images/IMG_1198-2-1-899x1024.jpg) |
 | Hanna Chen (hannac4) | Will Chen (hongyuc5) | Han Wang (hanw14) |
-| ![](../../images/IMG_15352-721x1024.jpg) | ![](../../images/image1.jpg) | ![](../../images/FullSizeRender-871x1024.jpg) |
+| ![](/ece484-site/images/IMG_15352-721x1024.jpg) | ![](/ece484-site/images/image1.jpg) | ![](/ece484-site/images/FullSizeRender-871x1024.jpg) |
 | James Menezes (jamesdm4) | Xiangru Zhong (xiangru4) | Fatemeh Cheraghi (fatemeh5) |
 
 ## **Undergrad CAs**
 
 |  |  |  |
 | --- | --- | --- |
-| ![](../../images/hyoungju_lim-473x1024.jpeg) | ![](../../images/tanvi_kulkarni-scaled.jpg) | ![](../../images/1000038704-scaled.jpg) |
+| ![](/ece484-site/images/hyoungju_lim-473x1024.jpeg) | ![](/ece484-site/images/tanvi_kulkarni-scaled.jpg) | ![](/ece484-site/images/1000038704-scaled.jpg) |
 | Hyoungju Lim (hl89) | Tanvi Kulkarni (tanvik4) | Yanhao Yang (yanhaoy2) |
-| ![](../../images/image-1.png) |  |  |
+| ![](/ece484-site/images/image-1.png) |  |  |
 | Bach Hoang (bachh2) |  |  |
 
 # **Office Hours**

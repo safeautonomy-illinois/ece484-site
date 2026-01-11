@@ -1,36 +1,48 @@
 # Overview - Spring 2026
 
-**Welcome to ECE484: Principles of Safe Autonomy, Fall 2025 edition.**
+**Welcome to ECE484: Principles of Safe Autonomy, Spring 2026 edition.**
 
-In this class, you will dive into algorithms for building autonomous systems (e.g., path planning, particle filtering, lane detection, and safety verification), play with cool software tools (e.g., ROS, Gazebo, OpenAI gym), and get to deploy your code on a real car!
+In this class, you will learn fundamental models, concepts, and algorithms for autonomy (e.g., 3D vision, planning, control, filtering, invariance, stability, and verification), gain experience with software tools (e.g., ROS, Gazebo, OpenAI gym), and deploy implementation of your ideas on aerial and ground vehicles!
 
 The class meets **Tuesdays and Thursdays at 11:00am-12:20pm in ECEB 1015.**
 
 Instructor: Prof. [Huan Zhang](https://www.huan-zhang.com/) and Prof. [Sayan Mitra](https://mitras.ece.illinois.edu/) (Chicago section)
 
-![](images/Screen-Shot-2020-08-18-at-10.29.28-AM.png)
-
-![](images/highbay1.png)
-
-![](images/IMG_4166-1024x843.jpg)
-
-![](images/Screen-Shot-2020-08-18-at-10.30.01-AM.png)
-
-![](images/GEM-isometric-up2-bw-1024x889.jpg)
-
-![](images/obj_detect_road_v2-1024x819.png)
-
-![](images/Righthook3.jpeg)
-
-![](images/PF.gif)
-
-![](images/B39B8332-1024x683.jpg)
-
-![](images/IMG_5847-1024x385.jpg)
-
-![](images/PXL_20230919_164108552-1024x286.jpg)
-
-![](images/PXL_20230919_173356306-1024x576.jpg)
+<table style="border-collapse:collapse; border:none;">
+  <tr>
+    <td style="border:none; padding:6px; text-align:center; background:none;">
+      <img src="/ece484-site/images/Screen-Shot-2020-08-18-at-10.29.28-AM.png" alt="Autonomy lab scene">
+    </td>
+    <td style="border:none; padding:6px; text-align:center; background:none;">
+      <img src="/ece484-site/images/highbay1.png" alt="Highbay facility">
+    </td>
+    <td style="border:none; padding:6px; text-align:center; background:none;">
+      <img src="/ece484-site/images/IMG_4166-1024x843.jpg" alt="Autonomous vehicle">
+    </td>
+  </tr>
+  <tr>
+    <td style="border:none; padding:6px; text-align:center; background:none;">
+      <img src="/ece484-site/images/Screen-Shot-2020-08-18-at-10.30.01-AM.png" alt="Lab demo">
+    </td>
+    <td style="border:none; padding:6px; text-align:center; background:none;">
+      <img src="/ece484-site/images/GEM-isometric-up2-bw-1024x889.jpg" alt="GEM vehicle">
+    </td>
+    <td style="border:none; padding:6px; text-align:center; background:none;">
+      <img src="/ece484-site/images/obj_detect_road_v2-1024x819.png" alt="Object detection visualization">
+    </td>
+  </tr>
+  <tr>
+    <td style="border:none; padding:6px; text-align:center; background:none;">
+      <img src="/ece484-site/images/Righthook3.jpeg" alt="Road scenario">
+    </td>
+    <td style="border:none; padding:6px; text-align:center; background:none;">
+      <img src="/ece484-site/images/PF.gif" alt="Particle filter visualization">
+    </td>
+    <td style="border:none; padding:6px; text-align:center; background:none;">
+      <img src="/ece484-site/images/B39B8332-1024x683.jpg" alt="Course activity">
+    </td>
+  </tr>
+</table>
 
 Content contributors: [Daniel Zhuang](https://www.linkedin.com/in/daniel-zhuang-9b1864180/), [John Pohovey](https://jhpohovey.github.io), [Yan Miao](https://yanmiao.netlify.app), [Hanna Chen](https://www.linkedin.com/in/hanna-chen-078389223/), [Hyoungju Lim](https://www.linkedin.com/in/hyoungju-lim-656972285/), [Haonan Chen](https://www.linkedin.com/in/haonan-chen-7a4339153/), [Will Chen](https://www.linkedin.com/in/hongyu-chen-91996b22b/), [Jai Anchalia](https://www.linkedin.com/in/jai-anchalia/), [Sidharth Anand](https://www.linkedin.com/in/anand-sidharth/), [Tanvi Kulkarni](https://www.linkedin.com/in/tanvikulk/), [Karteek Gandiboyina](https://www.linkedin.com/in/muralikarteek7/), [Praveen Natarajan](https://www.linkedin.com/in/praveennatarajan123/), [Hongyi Li](hli106@illinois.edu), [Ye-Ji Mun](https://yejimun.github.io), Katherine Braught, [Tianchen Ji](https://tianchenji.github.io), Pranav Sriram, [Qichao Gao](https://www.linkedin.com/in/qichaogao/), [Aamir Hasan](https://aamzhas.github.io), [Minghao Jiang](https://www.linkedin.com/in/minghao-jiang-4a212a127/), Pulkit Katdare, [Yangge Li](https://www.linkedin.com/in/yangge-li-307b4114a/), [Ted Liu](https://www.linkedin.com/in/tianqi-ted-liu-a67647a5/), [Hebron Taylor](https://www.linkedin.com/in/hebron-taylor-9aa1671a0/)
 
