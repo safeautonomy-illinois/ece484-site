@@ -10,9 +10,21 @@ theme:
     - navigation.sections
     - search.suggest
     - search.highlight
+  icon:
+    logo: material/robot
+  favicon: assets/images/favicon.png
 
 plugins:
   - search
+
+markdown_extensions:
+  - md_in_html
+
+extra_css:
+  - stylesheets/extra.css
+
+extra_javascript:
+  - javascripts/scroll-reveal.js
 
 nav:
   - Overview: index.md
