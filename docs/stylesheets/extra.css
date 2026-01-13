@@ -128,6 +128,40 @@ body.sa-home .md-container {
   margin-top: 0;
 }
 
+.sa-schedule {
+  width: 100%;
+  border-collapse: collapse;
+  font-size: 0.72rem;
+}
+
+.sa-schedule th,
+.sa-schedule td {
+  padding: 0.6rem 0.7rem;
+  border-bottom: 1px solid var(--md-typeset-table-color);
+  text-align: left;
+  vertical-align: top;
+}
+
+.sa-schedule thead th {
+  font-weight: 600;
+}
+
+.sa-schedule-special {
+  background: rgba(22, 37, 115, 0.12);
+}
+
+.sa-schedule-highlight {
+  background: rgba(22, 37, 115, 0.12);
+}
+
+.sa-schedule-special td {
+  font-weight: 600;
+}
+
+.sa-schedule-highlight td {
+  font-weight: 600;
+}
+
 html.js .sa-reveal {
   opacity: 0;
   transform: translateY(18px);
