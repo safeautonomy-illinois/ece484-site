@@ -1,5 +1,43 @@
 # Projects - Fall 2025
 
+## Project Gallery
+
+<table style="border-collapse:collapse; border:none;">
+  <tr>
+    <td style="border:none; padding:6px; text-align:center; background:none;">
+      <img src="/ece484-site/images/Screen-Shot-2020-08-18-at-10.29.28-AM.png" alt="Autonomy lab scene">
+    </td>
+    <td style="border:none; padding:6px; text-align:center; background:none;">
+      <img src="/ece484-site/images/highbay1.png" alt="Highbay facility">
+    </td>
+    <td style="border:none; padding:6px; text-align:center; background:none;">
+      <img src="/ece484-site/images/IMG_4166-1024x843.jpg" alt="Autonomous vehicle">
+    </td>
+  </tr>
+  <tr>
+    <td style="border:none; padding:6px; text-align:center; background:none;">
+      <img src="/ece484-site/images/Screen-Shot-2020-08-18-at-10.30.01-AM.png" alt="Lab demo">
+    </td>
+    <td style="border:none; padding:6px; text-align:center; background:none;">
+      <img src="/ece484-site/images/GEM-isometric-up2-bw-1024x889.jpg" alt="GEM vehicle">
+    </td>
+    <td style="border:none; padding:6px; text-align:center; background:none;">
+      <img src="/ece484-site/images/obj_detect_road_v2-1024x819.png" alt="Object detection visualization">
+    </td>
+  </tr>
+  <tr>
+    <td style="border:none; padding:6px; text-align:center; background:none;">
+      <img src="/ece484-site/images/Righthook3.jpeg" alt="Road scenario">
+    </td>
+    <td style="border:none; padding:6px; text-align:center; background:none;">
+      <img src="/ece484-site/images/PF.gif" alt="Particle filter visualization">
+    </td>
+    <td style="border:none; padding:6px; text-align:center; background:none;">
+      <img src="/ece484-site/images/B39B8332-1024x683.jpg" alt="Course activity">
+    </td>
+  </tr>
+</table>
+
 ## Tentative Project Timeline
 
 October 3rd: Signups Open

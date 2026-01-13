@@ -8,7 +8,7 @@ The class meets **Tuesdays and Thursdays at 11:00am-12:20pm in ECEB 1015.**
 
 Instructor: Prof. [Huan Zhang](https://www.huan-zhang.com/) and Prof. [Sayan Mitra](https://mitras.ece.illinois.edu/) (Chicago section)
 
-![](/ece484-site/images/Screen-Shot-2020-08-18-at-10.29.28-AM.png)
+<!-- ![](/ece484-site/images/Screen-Shot-2020-08-18-at-10.29.28-AM.png)
 
 ![](/ece484-site/images/highbay1.png)
 
@@ -30,7 +30,7 @@ Instructor: Prof. [Huan Zhang](https://www.huan-zhang.com/) and Prof. [Sayan Mit
 
 ![](/ece484-site/images/PXL_20230919_164108552-1024x286.jpg)
 
-![](/ece484-site/images/PXL_20230919_173356306-1024x576.jpg)
+![](/ece484-site/images/PXL_20230919_173356306-1024x576.jpg) -->
 
 Content contributors: [Daniel Zhuang](https://www.linkedin.com/in/daniel-zhuang-9b1864180/), [John Pohovey](https://jhpohovey.github.io), [Yan Miao](https://yanmiao.netlify.app), [Hanna Chen](https://www.linkedin.com/in/hanna-chen-078389223/), [Hyoungju Lim](https://www.linkedin.com/in/hyoungju-lim-656972285/), [Haonan Chen](https://www.linkedin.com/in/haonan-chen-7a4339153/), [Will Chen](https://www.linkedin.com/in/hongyu-chen-91996b22b/), [Jai Anchalia](https://www.linkedin.com/in/jai-anchalia/), [Sidharth Anand](https://www.linkedin.com/in/anand-sidharth/), [Tanvi Kulkarni](https://www.linkedin.com/in/tanvikulk/), [Karteek Gandiboyina](https://www.linkedin.com/in/muralikarteek7/), [Praveen Natarajan](https://www.linkedin.com/in/praveennatarajan123/), [Hongyi Li](hli106@illinois.edu), [Ye-Ji Mun](https://yejimun.github.io), Katherine Braught, [Tianchen Ji](https://tianchenji.github.io), Pranav Sriram, [Qichao Gao](https://www.linkedin.com/in/qichaogao/), [Aamir Hasan](https://aamzhas.github.io), [Minghao Jiang](https://www.linkedin.com/in/minghao-jiang-4a212a127/), Pulkit Katdare, [Yangge Li](https://www.linkedin.com/in/yangge-li-307b4114a/), [Ted Liu](https://www.linkedin.com/in/tianqi-ted-liu-a67647a5/), [Hebron Taylor](https://www.linkedin.com/in/hebron-taylor-9aa1671a0/)
 
