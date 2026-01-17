@@ -2,85 +2,90 @@
 
 # Course Description
 
-_Expectations and Goals:_ By the end of this course, you should gain a deep understanding of the different modules that go into autonomous vehicles, experience implementing related algorithms, and evaluate basic safety principles.
+_Goals:_ By the end of this course, you will gain an understanding of the key concepts involved in designing and evaluating autonomous systems. These concepts can be organized around three core tasks: (a) sensing, perception, and state estimation; (b) decision making, planning, and control; and (c) evaluation and correctness arguments based on formal verification. Machine learning techniques play an important role across all three tasks. You will also gain hands-on experience implementing algorithms and models using state-of-the-art software tools. Finally, the course provides practical experience in engineering a complete autonomy stack for a sensor-rich platform—such as a full-sized vehicle, a quadrotor, or a scaled vehicle—with particular emphasis on rigorous evaluation.
 
-_Course Material:_ There is no required textbook for this course. It will be based on material from the reference texts (see Resources), lecture notes, and recent research articles all of which will be made available on the course webpage.
+_Expectations:_ You are expected to (a) attend lectures **(TTh 11–12:30)** and keep up with the material through the suggested exercises; (b) complete **four homework and programming assignments**; (c) attend **Friday lab sections** to discuss and work through assignments; (d) prepare for and take **three in-class midterms**; and (e) complete a substantial **autonomy project**. Additional details are provided below.
 
-# Your team
 
-Autonomy is safer with a team. You will work in groups of 3 or 4  for the class project, labs, and the MPs. On the first week of class, you will have to create your team within your lab sections (AB1-AB5). Homework assignments and exams will be solo activities for each of you to engage deeply with the material. There will be labs and office hours to get help.
-
-# Grading
-
-- MPs (mostly team): 45%
-
-- HWs (individual): 10%
-
-- Mini Project: 25%
-
-- Midterm: 20%
 
 # Assignments (a.k.a MPs)
 
-There will be 4 Machine Problems (MPs). Mostly coding and experimentation. You will work with your teammates to implement lane detection filters, path planners, localization algorithms, and use latest tools for vehicle simulation and verification. Lab sessions will help you get started with the MPs. Each MP will have a submission deadline (usually Friday. 11:59 PM). See the [Assignment page](assignments.md) for more details.
+There will be 4 Machine Problems (MPs) involving coding in Python and ROS and experimentation. You will work with your teammates to implement lane detectors, path planners, localization algorithms, and use latest tools for vehicle simulation and verification. Lab sessions will help you get started with the MPs. Each MP will have a submission deadline (usually Friday. 11:59 PM). See the [Assignment page](assignments.md) for more details.
 
-_Tech requirements**:**_ For the assignments, you will be programming with ROS. More details are provided on the [Resources page](resources.md).
+_Tech requirements:_ For the assignments, you will be programming with ROS. More details are provided on the [Resources page](resources.md).
 
-# Labs
+
+# Friday Labs 
+
+Laboratory sections are held in ECEB 5072 on Fridays to help you learn about the assignment of the week, learn ROS2 and related autonomy software and simulators, and also demo your work to TAs.
 
 | **Session** | **TA** | **CA** |
 | --- | --- | --- |
-| AB1 (10am-11am) | James |  |
-| AB2 (11am-12pm) | Han |  |
-| AB3 (5pm-6pm) | Hanna |  |
-| AB4 (6pm-7pm) | Xiangru |  |
-| AB5 (7pm-8pm) | Fatemeh |  |
+| AB1 (9am-10am) |  |  |
+| AB1 (10am-11am) |  |  |
+| AB2 (11am-12pm) |  |  |
+| AB3 (1pm-2pm) |  |  |
+| AB4 (4pm-5pm) |  |  |
 
-The lab is held in ECEB 5072 to help you work with ROS2 and related autonomy software and simulators.
 
 Each week after a new MP is released, your entire group **will have to attend** your respective lab section. These labs will introduce the MP, the related software, and also teach you the necessary tools. The lab attendance is taken as a group and counts towards your MP score.
 
 Each week an MP is due,  your entire group **will have to attend** your registered lab section to demo the MP. Your MP will be graded in part based on this demo. This demo will include a short 2-3 question oral exam to check your understanding of the MP concepts and code.
 
-The following rules apply when using the lab machines:
+Follow these rules  when using the lab machines:
 
 - ROS2 and Gazebo must be killed after using and cannot be left running after logging out.
 
-- Do not shut down the machine. Logging out your account when you are not using the machine.
+- Do not shut down the machine. Log out your account when you are not using the machine.
 
 # Homeworks
 
-There will be 4 short Homework assignments (HW). Mostly theoretical questions related to topics covered in lectures, MPs, and exams. They are released and due alongside each MP.
+There will be 4 homework assignments (HW). The homework exercises are going to help you learn the mathematical concepts and prepare for the midterm exams. You will solve the homework problems individually and they are released and due alongside the MPs.
 
 # Exams
 
-There will be two midterms. Details will be posted here shortly and discussed in lecture.
+Three in-class, pencil-paper midterms will test you on core concepts. Sample exams may or may not be released, however, the exercises in the [course reader](/ece484-site/assets/pdfs/coursereader.pdf) and the homework will provide many practice problems.
 
-# Mini Project
+# Project
 
-The mini project is your opportunity to impress everyone and build your own autonomous vehicle than can be implemented on a real car! Details will be posted shortly.
+The team  project is your opportunity to impress  and build your own autonomous vehicle! The project will be graded based on presentation, results, organization. Additional details are available [here](projects.md)
 
-Your project will be graded based on presentation, results, organization.
+# Grading
 
-# AI Usage Policy
+- MPs (mostly team): 35%
 
-Students are allowed to use AI tools, e.g., ChatGPT, Microsoft Copilot, and other code generation assistants for this course. We recognize that these are powerful tools that can enhance learning and productivity, and are likely to be used in future workplaces.
+- HWs (individual): 4 x 2.5 =  10%
 
-That said, we emphasize that these are _tools_, not a replacement for your own learning. Thus, students are expected to fully understand any code they submit, regardless of its source. This includes:
+- Mini Project (team): 25%
 
-- The ability to explain the code at a line-by-line level
+- Midterms (individual): 3 x 10 = 30%
 
-- Understanding of all function calls and their purposes
 
-- Comprehension of the overall logic and structure of the code
+# Course material 
 
-If a student is found to have submitted code they cannot adequately explain or understand, penalties may be applied. These may include a reduction in the assignment grade, a requirement to redo the assignment without AI assistance, or, in severe cases, a referral to the academic integrity office.
+The [course reader](/ece484-site/assets/pdfs/coursereader.pdf) and the lecture slides will serve as the primary source material. There is no required textbook. We will also use material from the following reference texts:
 
-During office hours, extensive reliance on AI tools is discouraged. The purpose of office hours is to assess and improve your understanding. Overuse of AI during this time may result in a warning or affect your participation grade. The purpose of office hours is _not_ to identify LLM hallucinations by comparing answers with the TA on duty, nor to explain why the LLM may or may not have hallucinated on a given prompt.
+- [Probabilistic Robotics](http://www.probabilistic-robotics.org/) by Sebastian Thrun, Wolfram Burgard, Dieter Fox.  MIT press, 2017. Slides are available from the book's page.
+- [Verifying Cyberphysical Systems: A Path to Safe Autonomy](https://www.amazon.com/Verifying-Cyber-Physical-Systems-Autonomy-Physical/dp/0262044803) by Sayan Mitra,  MIT press, 2021. [Slides](https://sayanmitracode.github.io/cpsbooksite/slides.html).
 
-This policy may be subject to change as we continue to evaluate the impact of AI tools on learning outcomes. Students will be notified of any changes to this policy via Campuswire announcement (and an updated policy here). We are trying to strike a balance between use of modern tools and comprehensive understanding of course fundamentals. Use AI responsibly and as a learning aid, not a substitute for your own critical thinking and problem-solving skills; future you will thank you.
+# Individual and team work
 
-# University and College Policies
+For the team-based work, you will work in groups of 3 or 4  for the class project, labs, and the MPs. On the first week of class, you will have to create your team within your lab sections (AB1-AB5). Homework assignments and exams will be solo activities for each of you to engage deeply with the material. There will be labs and office hours to get help.
+
+
+# Responsible AI Usage Policy
+
+You may use AI tools (e.g., ChatGPT, Claude code)  only if you clearly attribute their use.
+You are responsible for understanding, verifying, and defending everything you submit. You will be asked to explain your code live. There is no replacement for learning the concepts with exercises. Therefore, we strongly recommend you to **not use** AI tools for the homework problems. No AI use permitted in the exams or during office hours. 
+
+If a student is found to have submitted code they cannot adequately explain or understand, penalties will be applied. 
+
+<!-- During office hours, extensive reliance on AI tools is discouraged. The purpose of office hours is to assess and improve your understanding. Overuse of AI during this time may result in a warning or affect your participation grade. The purpose of office hours is _not_ to identify LLM hallucinations by comparing answers with the TA on duty, nor to explain why the LLM may or may not have hallucinated on a given prompt. -->
+
+<!-- This policy may be subject to change as we continue to evaluate the impact of AI tools on learning outcomes. Students will be notified of any changes to this policy via Campuswire announcement (and an updated policy here). We are trying to strike a balance between use of modern tools and comprehensive understanding of course fundamentals. Use AI responsibly and as a learning aid, not a substitute for your own critical thinking and problem-solving skills; future you will thank you. -->
+
+
+<!-- # University and College Policies
 
 - **_We in the Illinois ECE community are committed to understanding, empathizing with, and respecting each other, embracing the many differences among us._**
     - The Grainger College of Engineering is committed to the creation of an anti-racist, inclusive community that welcomes diversity along a number of dimensions, including, but not limited to, race, ethnicity and national origins, gender and gender identity, sexuality, disability status, class, age, or religious beliefs. The College recognizes that we are learning together in the midst of the Black Lives Matter movement, that Black, Hispanic, and Indigenous voices and contributions have largely either been excluded from, or not recognized in, science and engineering, and that both overt racism and micro-aggressions threaten the well-being of our students and our university community.
@@ -136,4 +141,4 @@ The Grainger College of Engineering is committed to the creation of an anti-raci
 
 The effectiveness of this course is dependent upon each of us to create a safe and  
 encouraging learning environment that allows for the open exchange of ideas while also  
-ensuring equitable opportunities and respect for all of us. Everyone is expected to help establish and maintain an environment where students, staff, and faculty can contribute without fear of personal ridicule, or intolerant or offensive language. If you witness or experience racism, discrimination, micro-aggressions, or other offensive behavior, you are encouraged to bring this to the attention of the course director if you feel comfortable. You can also report these behaviors to the Bias Assessment and Response Team (BART) (https://bart.illinois.edu/). Based on your report, BART members will follow up and reach out to students to make sure they have the support they need to be healthy and safe. If the reported behavior also violates university policy, staff in the Office for Student Conflict Resolution may respond as well and will take appropriate action.
+ensuring equitable opportunities and respect for all of us. Everyone is expected to help establish and maintain an environment where students, staff, and faculty can contribute without fear of personal ridicule, or intolerant or offensive language. If you witness or experience racism, discrimination, micro-aggressions, or other offensive behavior, you are encouraged to bring this to the attention of the course director if you feel comfortable. You can also report these behaviors to the Bias Assessment and Response Team (BART) (https://bart.illinois.edu/). Based on your report, BART members will follow up and reach out to students to make sure they have the support they need to be healthy and safe. If the reported behavior also violates university policy, staff in the Office for Student Conflict Resolution may respond as well and will take appropriate action. -->
