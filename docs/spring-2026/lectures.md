@@ -1,6 +1,6 @@
 # Lectures - Spring 2026
 
-[Course Reader](http://publish.illinois.edu/safe-autonomy/files/2023/08/Safe_Autonomy_Course_Reader.pdf) (.pdf) \[Last updated 8/19/2023, 4:40 pm\]
+[Course Reader](/docs/assets/pdfs/coursereader.pdf) (.pdf)
 
 <!-- 🎥 [Video recordings](https://mediaspace.illinois.edu/channel/channelid/385330642) will be posted on [Mediaspace](https://mediaspace.illinois.edu/channel/channelid/385330642) after each class. -->
 
