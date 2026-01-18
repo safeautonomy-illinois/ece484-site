@@ -187,3 +187,19 @@ html.js .sa-reveal.is-visible {
     align-items: stretch;
   }
 }
+
+.platform-image {
+  display: block;
+  margin: 0 auto 0.35rem;
+  height: auto;
+}
+
+.platform-image--f1tenth,
+.platform-image--quadrotor {
+  opacity: 0.8;
+}
+
+.platform-image--gem {
+  max-width: none;
+  width: 150%;
+}
