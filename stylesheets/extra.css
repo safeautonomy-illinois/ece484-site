@@ -274,14 +274,16 @@ html.js .sa-reveal.is-visible {
 .md-typeset .team-avatar {
   width: 160px;
   height: 160px;
-  border-radius: 50%;
+  border-radius: 50% !important;
   display: block;
   margin: 0 auto;
+  overflow: hidden;
 }
 
 .md-typeset img.team-avatar {
   object-fit: cover;
   object-position: center;
+  clip-path: circle(50% at 50% 50%);
 }
 
 .team-avatar--placeholder {
