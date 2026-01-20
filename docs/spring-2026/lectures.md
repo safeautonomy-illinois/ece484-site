@@ -1,6 +1,6 @@
 # Lectures - Spring 2026
 
-[Course Reader](/docs/assets/pdfs/coursereader.pdf) (.pdf)
+[Course Reader](https://safeautonomy-illinois.github.io/ece484-site/assets/pdfs/coursereader.pdf) (.pdf)
 
 <!-- 🎥 [Video recordings](https://mediaspace.illinois.edu/channel/channelid/385330642) will be posted on [Mediaspace](https://mediaspace.illinois.edu/channel/channelid/385330642) after each class. -->
 
@@ -21,9 +21,13 @@
     <tr>
       <td>1</td>
       <td>01/20</td>
-      <td>Overview / Intro to Safety / Linear Algebra</td>
+      <td>Overview / Intro to Safety 
+       <br>
+      <a href = "/ece484-site/assets/pdfs/spring-2026/Spring26_Lecture1.pdf">slides</a>
+      </td>
       <td>01/22</td>
-      <td>Safety 2: verification concepts, automata, requirements, counter-examples (slides)</td>
+      <td>Safety 2: verification concepts, automata, requirements, counter-examples 
+      </td>
       <td>01/23</td>
       <td>Intro, MP0 walkthrough slides</td>
       <td>MP0 released</td>

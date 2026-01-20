@@ -9,7 +9,7 @@
     <div class="sa-hero-actions">
       <a class="md-button md-button--primary" href="/ece484-site/spring-2026/lectures/">View schedule</a>
       <a class="md-button" href="/ece484-site/spring-2026/projects/">Explore projects</a>
-      <a class="md-button" href="/ece484-site/spring-2026/assignments/">Assignments</a>
+      <a class="md-button" href="https://canvas.illinois.edu/courses/67113">Canvas</a>
     </div>
   </div>
 </div>

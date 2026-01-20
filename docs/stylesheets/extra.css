@@ -187,3 +187,111 @@ html.js .sa-reveal.is-visible {
     align-items: stretch;
   }
 }
+
+.platform-backdrop {
+  position: relative;
+  overflow: hidden;
+  border-radius: 26px;
+  min-height: clamp(18rem, 50vh, 30rem);
+  margin: 1.8rem 0;
+  display: flex;
+  align-items: flex-end;
+  padding: clamp(1.6rem, 4vw, 2.4rem);
+  color: #f8fafc;
+  isolation: isolate;
+}
+
+.platform-backdrop::before {
+  content: "";
+  position: absolute;
+  inset: 0;
+  background-image: var(--platform-image);
+  background-position: center;
+  background-size: cover;
+  transform: scale(1.05);
+  transition: transform 1.2s ease;
+  z-index: -2;
+}
+
+.platform-backdrop::after {
+  content: "";
+  position: absolute;
+  inset: 0;
+  background: linear-gradient(125deg, rgba(7, 14, 26, 0.65), rgba(7, 14, 26, 0.05));
+  z-index: -1;
+}
+
+.platform-backdrop.is-visible::before {
+  animation: platform-zoom 9s ease-in-out forwards;
+}
+
+.platform-backdrop__content {
+  max-width: 40ch;
+}
+
+.platform-backdrop__content h3 {
+  margin-bottom: 0.3rem;
+  color: inherit;
+}
+
+.platform-backdrop__content p {
+  margin: 0;
+  color: inherit;
+}
+
+.platform-backdrop--f1tenth {
+  --platform-image: url("/ece484-site/assets/images/f1tenthsketch.png");
+}
+
+.platform-backdrop--gem {
+  --platform-image: url("/ece484-site/assets/images/gem-sketch.png");
+}
+
+.platform-backdrop--quadrotor {
+  --platform-image: url("/ece484-site/assets/images/quadrotor-sketch.png");
+}
+
+@keyframes platform-zoom {
+  0% {
+    transform: scale(1.06);
+  }
+  50% {
+    transform: scale(1.18);
+  }
+  100% {
+    transform: scale(1.1);
+  }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .platform-backdrop.is-visible::before {
+    animation: none;
+    transform: scale(1.05);
+  }
+}
+
+.md-typeset img.team-avatar,
+.md-typeset .team-avatar {
+  width: 160px;
+  height: 160px;
+  border-radius: 50% !important;
+  display: block;
+  margin: 0 auto;
+  overflow: hidden;
+}
+
+.md-typeset img.team-avatar {
+  object-fit: cover;
+  object-position: center;
+  clip-path: circle(50% at 50% 50%);
+}
+
+.team-avatar--placeholder {
+  background: rgba(22, 37, 115, 0.12);
+  color: #162573;
+  font-weight: 600;
+  letter-spacing: 0.06em;
+  align-items: center;
+  justify-content: center;
+  display: flex;
+}

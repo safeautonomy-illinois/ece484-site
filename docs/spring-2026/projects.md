@@ -1,45 +1,30 @@
 # Projects - Spring 2026
 
-## Project Gallery
+
+# Platforms
 
 <table style="border-collapse:collapse; border:none;">
   <tr>
     <td style="border:none; padding:6px; text-align:center; background:none;">
-      <img src="/ece484-site/images/Screen-Shot-2020-08-18-at-10.29.28-AM.png" alt="Autonomy lab scene">
+      <img src="/ece484-site/assets/images/f1tenthsketch.png" alt="F1Tenth platform sketch" class="platform-image platform-image--f1tenth">
+      <div>F1Tenth</div>
     </td>
     <td style="border:none; padding:6px; text-align:center; background:none;">
-      <img src="/ece484-site/images/highbay1.png" alt="Highbay facility">
+      <img src="/ece484-site/assets/images/gem-sketch.png" alt="GEM platform sketch" class="platform-image platform-image--gem">
+      <div>GEM</div>
     </td>
     <td style="border:none; padding:6px; text-align:center; background:none;">
-      <img src="/ece484-site/images/IMG_4166-1024x843.jpg" alt="Autonomous vehicle">
-    </td>
-  </tr>
-  <tr>
-    <td style="border:none; padding:6px; text-align:center; background:none;">
-      <img src="/ece484-site/images/Screen-Shot-2020-08-18-at-10.30.01-AM.png" alt="Lab demo">
-    </td>
-    <td style="border:none; padding:6px; text-align:center; background:none;">
-      <img src="/ece484-site/images/GEM-isometric-up2-bw-1024x889.jpg" alt="GEM vehicle">
-    </td>
-    <td style="border:none; padding:6px; text-align:center; background:none;">
-      <img src="/ece484-site/images/obj_detect_road_v2-1024x819.png" alt="Object detection visualization">
-    </td>
-  </tr>
-  <tr>
-    <td style="border:none; padding:6px; text-align:center; background:none;">
-      <img src="/ece484-site/images/Righthook3.jpeg" alt="Road scenario">
-    </td>
-    <td style="border:none; padding:6px; text-align:center; background:none;">
-      <img src="/ece484-site/images/PF.gif" alt="Particle filter visualization">
-    </td>
-    <td style="border:none; padding:6px; text-align:center; background:none;">
-      <img src="/ece484-site/images/B39B8332-1024x683.jpg" alt="Course activity">
+      <img src="/ece484-site/assets/images/quadrotor-sketch.png" alt="Quadrotor platform sketch" class="platform-image platform-image--quadrotor">
+      <div>Quadrotor</div>
     </td>
   </tr>
 </table>
 
-## Tentative Project Timeline
 
+## Timeline
+
+Will be posted shortly. In the meantime see project highlights from [Spring 2025](https://www.youtube.com/watch?v=J0_EZeZfXWk), [Spring 2022](https://www.youtube.com/watch?v=-f7Qd7TnaDU&list=PLcA4s4DKSOF12iLaJmmJ_2ZoCD6aFd9Ct), and [Spring 2020](https://www.youtube.com/watch?v=y7FBNyDkFGc).
+<!-- 
 October 3rd: Signups Open
 
 October 7th: Finalize Teams and Tracks
@@ -134,4 +119,4 @@ Testing will be conducted on the Crazyflie within the [CSL Studio](https://maps.
 
 ### First Steps.
 
-- Familiarize yourself with the [FalconGym](https://github.com/IllinoisReliableAutonomyGroup/FalconGym) simulation environment.
+- Familiarize yourself with the [FalconGym](https://github.com/IllinoisReliableAutonomyGroup/FalconGym) simulation environment. -->

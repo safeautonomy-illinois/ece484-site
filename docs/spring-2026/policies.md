@@ -1,6 +1,6 @@
 # Policies - Spring 2026
 
-# Course Description
+## Course Description
 
 _Goals:_ By the end of this course, you will gain an understanding of the key concepts involved in designing and evaluating autonomous systems. These concepts can be organized around three core tasks: (a) sensing, perception, and state estimation; (b) decision making, planning, and control; and (c) evaluation and correctness arguments based on formal verification. Machine learning techniques play an important role across all three tasks. You will also gain hands-on experience implementing algorithms and models using state-of-the-art software tools. Finally, the course provides practical experience in engineering a complete autonomy stack for a sensor-rich platform—such as a full-sized vehicle, a quadrotor, or a scaled vehicle—with particular emphasis on rigorous evaluation.
 
@@ -8,14 +8,14 @@ _Expectations:_ You are expected to (a) attend lectures **(TTh 11–12:30)** and
 
 
 
-# Assignments (a.k.a MPs)
+## Assignments (a.k.a MPs)
 
 There will be 4 Machine Problems (MPs) involving coding in Python and ROS and experimentation. You will work with your teammates to implement lane detectors, path planners, localization algorithms, and use latest tools for vehicle simulation and verification. Lab sessions will help you get started with the MPs. Each MP will have a submission deadline (usually Friday. 11:59 PM). See the [Assignment page](assignments.md) for more details.
 
 _Tech requirements:_ For the assignments, you will be programming with ROS. More details are provided on the [Resources page](resources.md).
 
 
-# Friday Labs 
+## Friday Labs 
 
 Laboratory sections are held in ECEB 5072 on Fridays to help you learn about the assignment of the week, learn ROS2 and related autonomy software and simulators, and also demo your work to TAs.
 
@@ -38,19 +38,19 @@ Follow these rules  when using the lab machines:
 
 - Do not shut down the machine. Log out your account when you are not using the machine.
 
-# Homeworks
+## Homeworks
 
 There will be 4 homework assignments (HW). The homework exercises are going to help you learn the mathematical concepts and prepare for the midterm exams. You will solve the homework problems individually and they are released and due alongside the MPs.
 
-# Exams
+## Exams
 
 Three in-class, pencil-paper midterms will test you on core concepts. Sample exams may or may not be released, however, the exercises in the [course reader](/ece484-site/assets/pdfs/coursereader.pdf) and the homework will provide many practice problems.
 
-# Project
+## Project
 
 The team  project is your opportunity to impress  and build your own autonomous vehicle! The project will be graded based on presentation, results, organization. Additional details are available [here](projects.md)
 
-# Grading
+## Grading
 
 - MPs (mostly team): 35%
 
@@ -61,19 +61,19 @@ The team  project is your opportunity to impress  and build your own autonomous 
 - Midterms (individual): 3 x 10 = 30%
 
 
-# Course material 
+## Course material 
 
 The [course reader](/ece484-site/assets/pdfs/coursereader.pdf) and the lecture slides will serve as the primary source material. There is no required textbook. We will also use material from the following reference texts:
 
 - [Probabilistic Robotics](http://www.probabilistic-robotics.org/) by Sebastian Thrun, Wolfram Burgard, Dieter Fox.  MIT press, 2017. Slides are available from the book's page.
 - [Verifying Cyberphysical Systems: A Path to Safe Autonomy](https://www.amazon.com/Verifying-Cyber-Physical-Systems-Autonomy-Physical/dp/0262044803) by Sayan Mitra,  MIT press, 2021. [Slides](https://sayanmitracode.github.io/cpsbooksite/slides.html).
 
-# Individual and team work
+## Individual and team work
 
 For the team-based work, you will work in groups of 3 or 4  for the class project, labs, and the MPs. On the first week of class, you will have to create your team within your lab sections (AB1-AB5). Homework assignments and exams will be solo activities for each of you to engage deeply with the material. There will be labs and office hours to get help.
 
 
-# Responsible AI Usage Policy
+## Responsible AI Usage Policy
 
 You may use AI tools (e.g., ChatGPT, Claude code)  only if you clearly attribute their use.
 You are responsible for understanding, verifying, and defending everything you submit. You will be asked to explain your code live. There is no replacement for learning the concepts with exercises. Therefore, we strongly recommend you to **not use** AI tools for the homework problems. No AI use permitted in the exams or during office hours. 
