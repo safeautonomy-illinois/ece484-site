@@ -21,11 +21,12 @@ Laboratory sections are held in ECEB 5072 on Fridays to help you learn about the
 
 | **Session** | **TA** | **CA** |
 | --- | --- | --- |
-| AB1 (9am-10am) |  |  |
-| AB1 (10am-11am) |  |  |
-| AB2 (11am-12pm) |  |  |
-| AB3 (1pm-2pm) |  |  |
-| AB4 (4pm-5pm) |  |  |
+| AB1 (9am-10am) | James |  |
+| AB2 (10am-11am) | Fatemeh |  |
+| AB3 (11am-12pm) | Will |  |
+| AB4 (12pm-1pm) | Alex |  |
+| AB5 (1pm-2pm) | Hanna |  |
+| AB6 (4pm-5pm) | Abhishek |  |
 
 
 Each week after a new MP is released, your entire group **will have to attend** your respective lab section. These labs will introduce the MP, the related software, and also teach you the necessary tools. The lab attendance is taken as a group and counts towards your MP score.
