@@ -28,7 +28,9 @@
       <a href = "/ece484-site/assets/pdfs/spring-2026/Spring26_Lecture1.pdf">slides</a>
       </td>
       <td>01/22</td>
-      <td>Safety 2: verification concepts, automata, requirements, counter-examples 
+      <td>Verification, reachability, invariance 
+      <br>
+      <a href="/ece484-site/assets/pdfs/spring-2026/Spring26_Lecture2_Safety2.pdf">slides</a>
       </td>
       <td>01/23</td>
       <td>Intro, MP0 walkthrough slides</td>
@@ -202,8 +204,8 @@
 
 | **Session** | **TA** | **CA** |
 | --- | --- | --- |
-| AB1 (9am-10am) | James |  |
-| AB2 (10am-11am) | Fatemeh |  |
+| AB1 (9am-10am) | Fatemeh |  |
+| AB2 (10am-11am) | James |  |
 | AB3 (11am-12pm) | Will |  |
 | AB4 (12pm-1pm) | Alex |  |
 | AB5 (1pm-2pm) | Hanna |  |

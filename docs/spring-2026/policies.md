@@ -21,8 +21,8 @@ Laboratory sections are held in ECEB 5072 on Fridays to help you learn about the
 
 | **Session** | **TA** | **CA** |
 | --- | --- | --- |
-| AB1 (9am-10am) | James |  |
-| AB2 (10am-11am) | Fatemeh |  |
+| AB1 (9am-10am) | Fatemeh |  |
+| AB2 (10am-11am) | James |  |
 | AB3 (11am-12pm) | Will |  |
 | AB4 (12pm-1pm) | Alex |  |
 | AB5 (1pm-2pm) | Hanna |  |
