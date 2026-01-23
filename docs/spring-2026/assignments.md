@@ -4,12 +4,11 @@ You will be doing programming assignments (MPs) in groups and homework (HW) prob
 
 ## MP0/HW0
 
-Coming this Friday. Will be due in 2 weeks.
-<!-- - MP3/HW3
-    - [Link to Git Repo Release](https://gitlab.engr.illinois.edu/GolfCar/mp-release-fa25/-/tree/main/src/mp3?ref_type=heads) (Be sure to pull the entire repo, as there are updates to gem\_simulator)
-    
-    - [Link to MP3 and HW3](http://publish.illinois.edu/safe-autonomy/files/2025/10/ECE484_MP3_FA2025-1.pdf)
+First, setup ECE484 Github following the steps [here](https://safeautonomy-illinois.github.io/ece484-site/spring-2026/resources/#github). MP0 is due Feb 6. 
 
+- [Code](https://github.com/safeautonomy-illinois-students/mp0-sp26-release) 
+- [Docs](https://github.com/safeautonomy-illinois-students/mp0-sp26-release/blob/main/docs/MP0_Release_Spring2026.pdf)
+<!--
 - MP2/HW2
     - [Link to Git Repo Release](https://gitlab.engr.illinois.edu/GolfCar/mp-release-fa25/-/tree/main/src/mp2?ref_type=heads)
     

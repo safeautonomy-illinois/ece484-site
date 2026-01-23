@@ -61,12 +61,13 @@ Now you have an SSH key and you can use it to securely commit and push (save) co
 
 **Step 6** Clone your submission repo
 
-	```git clone git@github.com:safeautonomy-illinois-students/sp26_ece484_YOUR_NETID.git```
+	```git clone git@github.com:safeautonomy-illinois-students/mp0-sp26-ece484-YOUR_NETID.git```
 
 **Step 7** Copy release code into your submission repo
+
 **Step 8** Navigate to within your release repo
 
-	```cd sp26_ece484_YOUR_NETID```
+	```cd mp0-sp26-ece484-YOUR_NETID```
 
 **Step 9** Commit your files
 ```
