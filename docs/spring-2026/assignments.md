@@ -2,6 +2,9 @@
 
 You will be doing programming assignments (MPs) in groups and homework (HW) problems individually. There will be an MP around every other week with four MPs in total. The slides for each of the MP Walkthroughs will be posted on Campuswire, along with any other announcements regarding corrections to documentation, etc.
 
+## MP0/HW0
+
+Coming this Friday. Will be due in 2 weeks.
 <!-- - MP3/HW3
     - [Link to Git Repo Release](https://gitlab.engr.illinois.edu/GolfCar/mp-release-fa25/-/tree/main/src/mp3?ref_type=heads) (Be sure to pull the entire repo, as there are updates to gem\_simulator)
     
