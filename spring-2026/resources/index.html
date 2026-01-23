@@ -616,6 +616,34 @@
   
 </li>
       
+        <li class="md-nav__item">
+  <a href="#github" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Github
+      
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="Github">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#getting-started-with-github-org-for-ece484" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Getting started with Github Org for ECE484
+      
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
     </ul>
   
 </nav>
@@ -1126,6 +1154,34 @@
   
 </li>
       
+        <li class="md-nav__item">
+  <a href="#github" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Github
+      
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="Github">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#getting-started-with-github-org-for-ece484" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Getting started with Github Org for ECE484
+      
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
     </ul>
   
 </nav>
@@ -1159,6 +1215,47 @@
 </ul>
 <h2 id="software">Software</h2>
 <p>Additional resources will be posted here.</p>
+<h2 id="github">Github</h2>
+<p><a href="https://docs.github.com/en/get-started/start-your-journey/hello-world">Git</a> is a version-control tool that helps you manage code changes over time and collaborate reliably. A <strong>repository</strong> in git parlance is a version-controlled, shared, public or private folder. In this course you will work with two kinds of GitHub <strong>repositories</strong>: a release repo that contains the official starter code we publish for each MP, and your personal submission repo where you will do your work and turn it in. The basic workflow is: <strong>clone</strong> (download) the MPX release repo to get the starter files, copy those files into your submission repo on your computer, then as you make changes you repeatedly <strong>add → commit</strong> (save a snapshot with a message) → <strong>push</strong> (upload) to GitHub. Our graders will look at the latest version you have pushed to your submission repo, so pushing your commits is what actually submits your work.</p>
+<h3 id="getting-started-with-github-org-for-ece484">Getting started with Github Org for ECE484</h3>
+<p>You will have to do <strong>Steps 1-4</strong> at most once to setup your account and SSH key.</p>
+<p><strong>Step 1</strong> Create a <a href="https://github.com/">Github account</a>  with your Illinois email address. Skip this step if you already have one.</p>
+<p><strong>Step 2</strong> Once signed in, navigate to the <a href="https://github.com/safeautonomy-illinois-students">ECE484 Students organization</a> and accept our invite to join our organization. It should be in a yellow box. You may have also received an email where you can join the organization. <em>Welcome onboard!</em></p>
+<p><strong>Step 3</strong> Once you join the ECE484 Students organization, navigate to the <strong>Repositories</strong> tab where you will be able to view your submission repo <code>sp26_ece484_YOUR_NETID</code> and the MP0 release repo with your starter code <code>sp26-ece484-release</code>.</p>
+<p><strong>Step 4</strong> To securely clone the release repo and to upload code to your submission repo, you will need to set up an <strong>SSH key</strong>. Follow these steps</p>
+<p>a. In a terminal on your computer run</p>
+<pre><code>```ssh-keygen -t ed25519 -C "YOUR_NETID@illinois.edu```
+</code></pre>
+<p>b. Hit Enter 3 times (the defaults are OK)</p>
+<p>c. Retrieve your public key</p>
+<pre><code>```cat /home/$USER/.ssh/id_ed25519.pub```
+</code></pre>
+<p>It should look something like <code>ssh-ed25519 YOUR_KEY YOUR_NETID@illinois.edu</code>. Copy this to clipboard.</p>
+<p>d. On github.com click on your profile picture in the top right to open a drop down menu and select <em>Settings</em>.</p>
+<p>e. On the left hand side of the page click on <em>SSH and GPG keys</em> under the <em>Access</em> tab. Click on <em>New SSH key</em>.</p>
+<p>f. Title your key something memorable. E.g. ECE484Key</p>
+<p>g. Paste the whole line found in step 4c into the "Key" text box and click <em>Add SSH key</em>.</p>
+<p>h. Click on <em>Configure SSO</em> dropdown under your newly added key.</p>
+<p>i. Authorize for organization "safeautonomy-illinois-students". </p>
+<p>Now you have an SSH key and you can use it to securely commit and push (save) code to the git repositories. The remaining steps are MP-specific.</p>
+<p><strong>Step 5</strong> Clone the MP0 release repo</p>
+<pre><code>```git clone git@github.com:safeautonomy-illinois-students/sp26-ece484-release.git```
+</code></pre>
+<p><strong>Step 6</strong> Clone your submission repo</p>
+<pre><code>```git clone git@github.com:safeautonomy-illinois-students/sp26_ece484_YOUR_NETID.git```
+</code></pre>
+<p><strong>Step 7</strong> Copy release code into your submission repo
+<strong>Step 8</strong> Navigate to within your release repo</p>
+<pre><code>```cd sp26_ece484_YOUR_NETID```
+</code></pre>
+<p><strong>Step 9</strong> Commit your files</p>
+<pre><code>    git status
+    git add -A
+    git commit -m &quot;initial commit&quot; # you may need to specify your user.email and user.name
+    git push
+</code></pre>
+<p><strong>Step 10</strong> Verify your files are in your repository via the web browser: https://github.com/safeautonomy-illinois-students/sp26_ece484_YOUR_NETID</p>
+<p>When you are done with your MP. Make sure to "git add" all files you changed before creating a commit and pushing. </p>
 
 
 
