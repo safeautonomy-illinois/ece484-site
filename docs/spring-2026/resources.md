@@ -52,12 +52,12 @@ h. Click on _Configure SSO_ dropdown under your newly added key.
 
 i. Authorize for organization "safeautonomy-illinois-students". 
 
-Now you have an SSH key and you can use it to securely commit and push (save) code to the git repositories. The remaining steps are MP-specific.
+Now you have an SSH key and you can use it to securely commit and push (save) code to the git repositories. The remaining steps are MP-specific. You will have to change the names for the specific MP.
 
 
 **Step 5** Clone the MP0 release repo
 	
-    ```git clone git@github.com:safeautonomy-illinois-students/sp26-ece484-release.git```
+    ```git clone git@github.com:safeautonomy-illinois-students/mp0-sp26-ece484-release.git```
 
 **Step 6** Clone your submission repo
 
@@ -73,7 +73,7 @@ Now you have an SSH key and you can use it to securely commit and push (save) co
 ```
 	git status
 	git add -A
-	git commit -m "initial commit" # you may need to specify your user.email and user.name
+	git commit -m "initial commit" # may need to specify user.email, user.name
 	git push
 ```
 

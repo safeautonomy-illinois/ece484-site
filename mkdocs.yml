@@ -28,7 +28,7 @@ extra_javascript:
 
 nav:
   - Overview: index.md
-  - Lectures: spring-2026/lectures.md
+  - Schedule: spring-2026/lectures.md
   - Assignments: spring-2026/assignments.md
   - Team: spring-2026/team.md
   - Projects: spring-2026/projects.md
@@ -37,7 +37,7 @@ nav:
   - Archive:
       - Fall 2025:
           - Overview: archive/fall-2025/index.md
-          - Lectures: archive/fall-2025/lectures.md
+          - Schedule: archive/fall-2025/lectures.md
           - Assignments: archive/fall-2025/assignments.md
           - Team: archive/fall-2025/team.md
           - Projects: archive/fall-2025/projects.md

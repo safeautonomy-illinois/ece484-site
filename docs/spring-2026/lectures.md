@@ -33,15 +33,18 @@
       <a href="/ece484-site/assets/pdfs/spring-2026/Spring26_Lecture2_Safety2.pdf">slides</a>
       </td>
       <td>01/23</td>
-      <td>Intro, MP0 walkthrough slides</td>
+      <td>Intro, MP0 walkthrough 
+      <a href="https://github.com/safeautonomy-illinois-students/mp0-sp26-release/blob/main/docs/ECE484_SP26_MP0_Walkthrough.pdf">slides</a></td>
       <td>MP0 released</td>
     </tr>
     <tr>
       <td>2</td>
       <td>01/27</td>
-      <td>Safety 3: reachability, inductive invariants (slides)</td>
+      <td>Safety 3: reachability, inductive invariants <a href="/ece484-site/assets/pdfs/spring-2026/Spring26_Lecture3_Safety.pdf">slides</td>
       <td>01/29</td>
-      <td>Perception 1: neural networks, gradient descent (slides)</td>
+      <td>Neural networks, gradient descent 
+      <a href="/ece484-site/assets/pdfs/spring-2026/Spring26_Lecture4_perceptionNN.pdf">slides</a>      
+      </td>
       <td>01/30</td>
       <td>Team formation, MP1 walkthrough</td>
       <td>MP1 released</td>
@@ -210,3 +213,14 @@
 | AB4 (12pm-1pm) | Alex |  |
 | AB5 (1pm-2pm) | Hanna |  |
 | AB6 (4pm-5pm) | Abhishek |  |
+
+## Office Hours
+
+All TA Office Hours will be held in ECEB 5072 lab.
+
+| **Day** | **Time** | **TA** |
+| --- | --- | --- |
+|Tuesday|	5-6PM|	Will|
+|Wednesday|	11am-12PM|	Abhishek|
+|Thursday|	10-11AM|	James|
+|Thursday|	5-6PM|	Hanna|
