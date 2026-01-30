@@ -9,6 +9,17 @@ First, setup ECE484 Github following the steps [here](https://safeautonomy-illin
 - [Code](https://github.com/safeautonomy-illinois-students/mp0-sp26-release) 
 - [Docs](https://github.com/safeautonomy-illinois-students/mp0-sp26-release/blob/main/docs/MP0_Release_Spring2026.pdf)
 - [Walkthrough slides](https://github.com/safeautonomy-illinois-students/mp0-sp26-release/blob/main/docs/ECE484_SP26_MP0_Walkthrough.pdf)
+
+## MP1/HW1
+
+MP1 is due Feb 20.
+
+- [Code, Release ver 1.0 1/30/2026, 1pm CT](https://github.com/safeautonomy-illinois-students/mp1-sp26-release) 
+- [Docs, Release ver 1.0 1/30/2026, 1pm CT](https://github.com/safeautonomy-illinois-students/mp1-sp26-release/blob/main/docs/MP1_Dev_Spring2026.pdf)
+<!--
+- [Walkthrough slides](https://github.com/safeautonomy-illinois-students/mp0-sp26-release/blob/main/docs/ECE484_SP26_MP0_Walkthrough.pdf) -->
+
+
 <!--
 - MP2/HW2
     - [Link to Git Repo Release](https://gitlab.engr.illinois.edu/GolfCar/mp-release-fa25/-/tree/main/src/mp2?ref_type=heads)

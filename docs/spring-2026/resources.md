@@ -57,7 +57,7 @@ Now you have an SSH key and you can use it to securely commit and push (save) co
 
 **Step 5** Clone the MP0 release repo
 	
-    ```git clone git@github.com:safeautonomy-illinois-students/mp0-sp26-ece484-release.git```
+    ```git@github.com:safeautonomy-illinois-students/mp0-sp26-release.git```
 
 **Step 6** Clone your submission repo
 
