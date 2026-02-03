@@ -52,7 +52,8 @@
     <tr>
       <td>3</td>
       <td>02/03</td>
-      <td>Perception 2: intrinsic, extrinsic matrices, homogeneous coordinates (slides)</td>
+      <td>Perception 2: backprop, coordinate transforms 
+         <a href="/ece484-site/assets/pdfs/spring-2026/Spring26_Lecture5_perceptionNN2_CT.pdf">slides</a></td>
       <td>02/05</td>
       <td>Perception 3: calibration, perspective, projection, eigenvalue problem (slides)</td>
       <td>02/06</td>
