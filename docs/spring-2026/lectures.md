@@ -55,7 +55,8 @@
       <td>Perception 2: backprop, coordinate transforms 
          <a href="/ece484-site/assets/pdfs/spring-2026/Spring26_Lecture5_perceptionNN2_CT.pdf">slides</a></td>
       <td>02/05</td>
-      <td>Perception 3: calibration, perspective, projection, eigenvalue problem (slides)</td>
+      <td>Camera model, calibration
+      <a href="/ece484-site/assets/pdfs/spring-2026/Spring26_Lecture6_Camera.pdf">slides</a></td>
       <td>02/06</td>
       <td>MP0 Demo (MP0 Due)</td>
       <td>-</td>
