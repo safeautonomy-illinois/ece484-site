@@ -12,13 +12,13 @@ First, setup ECE484 Github following the steps [here](https://safeautonomy-illin
 
 ## MP1/HW1
 
-MP1 is due Feb 20.
+MP1 is due Feb 20. Github [classroom link](https://classroom.github.com/a/OKwgOzwF).
 
-- [Code, Release ver 1.0 1/30/2026, 1pm CT](https://github.com/safeautonomy-illinois-students/mp1-sp26-release) 
-- [Docs, Release ver 1.0 1/30/2026, 1pm CT](https://github.com/safeautonomy-illinois-students/mp1-sp26-release/blob/main/docs/MP1_Dev_Spring2026.pdf)
-<!--
-- [Walkthrough slides](https://github.com/safeautonomy-illinois-students/mp0-sp26-release/blob/main/docs/ECE484_SP26_MP0_Walkthrough.pdf) -->
-
+- ~~[Code, Release ver 1.0 1/30/2026, 1pm CT](https://github.com/safeautonomy-illinois-students/mp1-sp26-release)~~ 
+- ~~[Docs, Release ver 1.0 1/30/2026, 1pm CT](https://github.com/safeautonomy-illinois-students/mp1-sp26-release/blob/main/docs/MP1_Dev_Spring2026.pdf)~~
+- [Code Release ver 2.0 2/6/2026, 1pm CT](https://github.com/safeautonomy-illinois-students/mp1-sp26-release)
+- [Docs, Release ver 2.0 2/6/2026, 1pm CT](https://github.com/safeautonomy-illinois-students/mp1-sp26-release/blob/main/docs/MP1_Dev_Spring2026.pdf)
+- [Walkthrough slides](https://github.com/safeautonomy-illinois-students/mp1-sp26-release/blob/main/docs/ECE484_SP26_MP1_Walkthrough.pdf) 
 
 <!--
 - MP2/HW2
