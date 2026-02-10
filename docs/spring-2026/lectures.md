@@ -19,7 +19,7 @@
   </colgroup>
   <thead>
     <tr>
-      <th>Wk</th>
+      <th>W</th>
       <th>Tues</th>
       <th>Topic    </th>
       <th>Thurs</th>
