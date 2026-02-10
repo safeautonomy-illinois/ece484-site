@@ -2,7 +2,8 @@
 
 You will be doing programming assignments (MPs) in groups and homework (HW) problems individually. There will be an MP around every other week with four MPs in total. The slides for each of the MP Walkthroughs will be posted on Campuswire, along with any other announcements regarding corrections to documentation, etc.
 
-## MP0/HW0
+## MP0/HW0: Safety, reachability and invariance
+
 
 First, setup ECE484 Github following the steps [here](https://safeautonomy-illinois.github.io/ece484-site/spring-2026/resources/#github). MP0 is due Feb 6. 
 
@@ -10,7 +11,7 @@ First, setup ECE484 Github following the steps [here](https://safeautonomy-illin
 - [Docs](https://github.com/safeautonomy-illinois-students/mp0-sp26-release/blob/main/docs/MP0_Release_Spring2026.pdf)
 - [Walkthrough slides](https://github.com/safeautonomy-illinois-students/mp0-sp26-release/blob/main/docs/ECE484_SP26_MP0_Walkthrough.pdf)
 
-## MP1/HW1
+## MP1/HW1: Neural networks, perception, and lane pose estimation
 
 MP1 is due Feb 20. Github [classroom link](https://classroom.github.com/a/OKwgOzwF).
 

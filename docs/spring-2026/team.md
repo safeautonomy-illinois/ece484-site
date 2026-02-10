@@ -86,13 +86,17 @@
   </tr>
   <tr>
     <td style="border:none; padding:6px; text-align:center; background:none;">
-      <div class="team-avatar team-avatar--placeholder" role="img" aria-label="JD Lee placeholder">JL</div>
+      <div class="team-avatar team-avatar--zoom">
+        <img src="/ece484-site/images/JD.jpeg" alt="JD Lee" class="team-avatar__img" width="160" height="160">
+      </div>
     </td>
     <td style="border:none; padding:6px; text-align:center; background:none;">
-      <div class="team-avatar team-avatar--placeholder" role="img" aria-label="Yuqing Gu placeholder">YG</div>
+      <img src="/ece484-site/images/yuqing.png" alt="Yuqing Gu" class="team-avatar" width="160" height="160">
     </td>
     <td style="border:none; padding:6px; text-align:center; background:none;">
-      <div class="team-avatar team-avatar--placeholder" role="img" aria-label="Jiajun Gao placeholder">JG</div>
+      <div class="team-avatar team-avatar--zoom">
+        <img src="/ece484-site/images/jiajun.jpg" alt="Jiajun Gao" class="team-avatar__img" width="160" height="160">
+      </div>
     </td>
   </tr>
   <tr>

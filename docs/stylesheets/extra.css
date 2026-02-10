@@ -132,6 +132,27 @@ body.sa-home .md-container {
   width: 100%;
   border-collapse: collapse;
   font-size: 0.72rem;
+  table-layout: fixed;
+}
+
+.sa-schedule col.sa-schedule-col-week {
+  width: 5%;
+}
+
+.sa-schedule col.sa-schedule-col-date {
+  width: 12%;
+}
+
+.sa-schedule col.sa-schedule-col-topic {
+  width: 25%;
+}
+
+.sa-schedule col.sa-schedule-col-lab {
+  width: 10%;
+}
+
+.sa-schedule col.sa-schedule-col-notes {
+  width: 10%;
 }
 
 .sa-schedule th,
@@ -284,6 +305,20 @@ html.js .sa-reveal.is-visible {
   object-fit: cover;
   object-position: center;
   clip-path: circle(50% at 50% 50%);
+}
+
+.md-typeset .team-avatar__img {
+  width: 100%;
+  height: 100%;
+  display: block;
+  object-fit: cover;
+  object-position: center;
+  transform: scale(var(--avatar-zoom, 1));
+  transform-origin: center;
+}
+
+.md-typeset .team-avatar--zoom {
+  --avatar-zoom: 1.6;
 }
 
 .team-avatar--placeholder {

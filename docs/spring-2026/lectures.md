@@ -7,13 +7,23 @@
 <!-- 🎥 [Video recordings](https://mediaspace.illinois.edu/channel/channelid/385330642) will be posted on [Mediaspace](https://mediaspace.illinois.edu/channel/channelid/385330642) after each class. -->
 
 <table class="sa-schedule">
+  <colgroup>
+    <col class="sa-schedule-col-week">
+    <col class="sa-schedule-col-date">
+    <col class="sa-schedule-col-topic">
+    <col class="sa-schedule-col-date">
+    <col class="sa-schedule-col-topic">
+    <col class="sa-schedule-col-date">
+    <col class="sa-schedule-col-lab">
+    <col class="sa-schedule-col-notes">
+  </colgroup>
   <thead>
     <tr>
-      <th>Week</th>
+      <th>Wk</th>
       <th>Tues</th>
-      <th>Topic</th>
+      <th>Topic    </th>
       <th>Thurs</th>
-      <th>Topic</th>
+      <th>Topic    </th>
       <th>Fri</th>
       <th>Lab</th>
       <th>Notes</th>
@@ -23,7 +33,7 @@
     <tr>
       <td>1</td>
       <td>01/20</td>
-      <td>Overview / Intro to Safety 
+      <td>Intro, automata, safety, requirements 
        <br>
       <a href = "/ece484-site/assets/pdfs/spring-2026/Spring26_Lecture1.pdf">slides</a>
       </td>
@@ -33,43 +43,44 @@
       <a href="/ece484-site/assets/pdfs/spring-2026/Spring26_Lecture2_Safety2.pdf">slides</a>
       </td>
       <td>01/23</td>
-      <td>Intro, MP0 walkthrough 
+      <td>Intro, MP0 out 
       <a href="https://github.com/safeautonomy-illinois-students/mp0-sp26-release/blob/main/docs/ECE484_SP26_MP0_Walkthrough.pdf">slides</a></td>
-      <td>MP0 released</td>
+      <td>MP0 out</td>
     </tr>
     <tr>
       <td>2</td>
       <td>01/27</td>
-      <td>Safety 3: reachability, inductive invariants <a href="/ece484-site/assets/pdfs/spring-2026/Spring26_Lecture3_Safety.pdf">slides</td>
+      <td>Reachability, inductive invariants, cex <a href="/ece484-site/assets/pdfs/spring-2026/Spring26_Lecture3_Safety.pdf">slides</td>
       <td>01/29</td>
-      <td>Neural networks, gradient descent 
+      <td>Neuralnets, forward prop, loss, gradient descent 
       <a href="/ece484-site/assets/pdfs/spring-2026/Spring26_Lecture4_perceptionNN.pdf">slides</a>      
       </td>
       <td>01/30</td>
-      <td>Team formation, MP1 walkthrough</td>
-      <td>MP1 released</td>
+      <td>Team up, MP1 out</td>
+      <td>MP1 out</td>
     </tr>
     <tr>
       <td>3</td>
       <td>02/03</td>
-      <td>Perception 2: backprop, coordinate transforms 
-         <a href="/ece484-site/assets/pdfs/spring-2026/Spring26_Lecture5_perceptionNN2_CT.pdf">slides</a></td>
+      <td>Backprop, grad implosion, coordinate transforms, SO3
+      <a href="/ece484-site/assets/pdfs/spring-2026/Spring26_Lecture5_perceptionNN2_CT.pdf">slides</a></td>
       <td>02/05</td>
-      <td>Camera model, calibration
+      <td>Camera intrinsic, extrinsic, RQ, calibration
       <a href="/ece484-site/assets/pdfs/spring-2026/Spring26_Lecture6_Camera.pdf">slides</a></td>
       <td>02/06</td>
-      <td>MP0 Demo (MP0 Due)</td>
+      <td>MP0 due</td>
       <td>-</td>
     </tr>
     <tr>
       <td>4</td>
       <td>02/10</td>
-      <td>Perception 4: depth estimation, visual odometry, fundamental matrix, epipolar geometry (slides)</td>
+      <td>Visual odometry, epipolar geometry, RANSAC 
+      <a href="/ece484-site/assets/pdfs/spring-2026/Spring26_Lecture7_Stereo.pdf">slides</a></td>
       <td>02/12</td>
       <td>Control 1: ODEs, lipschitz contuinity, bang-bang control (slides)</td>
       <td>02/13</td>
-      <td>MP2 walkthrough slides</td>
-      <td>MP2 released</td>
+      <td>MP2 out</td>
+      <td>MP2 out</td>
     </tr>
     <tr class="sa-schedule-highlight">
       <td>5</td>
@@ -78,7 +89,7 @@
       <td>02/19</td>
       <td>F1tenth, GRAIC, and Drones overview</td>
       <td>02/20</td>
-      <td>MP1 Demo (MP1 due)</td>
+      <td>MP1 due</td>
       <td>-</td>
     </tr>
     <tr class="sa-schedule-highlight">
@@ -98,7 +109,7 @@
       <td>03/05</td>
       <td>Control 3: linear systems, stability, Lyapunov, Hurwitz criteria (slides)</td>
       <td>03/06</td>
-      <td>MP2 Demo (MP2 due)</td>
+      <td>MP2 due</td>
       <td></td>
     </tr>
     <tr>
@@ -108,7 +119,7 @@
       <td>03/12</td>
       <td>Project review</td>
       <td>03/13</td>
-      <td>MP3 released/walkthrough slides</td>
+      <td>MP3 out</td>
       <td>-</td>
     </tr>
     <tr class="sa-schedule-special">
@@ -148,7 +159,7 @@
       <td>04/09</td>
       <td>Filtering 4: review; SLAM (slides)</td>
       <td>04/10</td>
-      <td>MP3 Demo (MP3 due)</td>
+      <td>MP3 due</td>
       <td>-</td>
     </tr>
     <tr>
