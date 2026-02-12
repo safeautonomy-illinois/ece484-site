@@ -77,7 +77,8 @@
       <td>Visual odometry, epipolar geometry, RANSAC 
       <a href="/ece484-site/assets/pdfs/spring-2026/Spring26_Lecture7_Stereo.pdf">slides</a></td>
       <td>02/12</td>
-      <td>Control 1: ODEs, lipschitz contuinity, bang-bang control (slides)</td>
+      <td>ODE solutions, bang-bang, PID control 
+      <a href="/ece484-site/assets/pdfs/Spring26_Lecture8_Control.pdf">slides</td>
       <td>02/13</td>
       <td>MP2 out</td>
       <td>MP2 out</td>
