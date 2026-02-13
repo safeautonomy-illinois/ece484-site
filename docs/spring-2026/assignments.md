@@ -21,7 +21,7 @@ MP1 is due Feb 20. Github [classroom link](https://classroom.github.com/a/OKwgOz
 - [Docs, Release ver 2.0 2/6/2026, 1pm CT](https://github.com/safeautonomy-illinois-students/mp1-sp26-release/blob/main/docs/MP1_Dev_Spring2026.pdf)
 - [Walkthrough slides](https://github.com/safeautonomy-illinois-students/mp1-sp26-release/blob/main/docs/ECE484_SP26_MP1_Walkthrough.pdf) 
 
-## MP2/HW2
+## MP2/HW2: Control, lane-keeping
 
 Github [classroom link](https://classroom.github.com/a/pZhsfGkH).
 
