@@ -21,6 +21,14 @@ MP1 is due Feb 20. Github [classroom link](https://classroom.github.com/a/OKwgOz
 - [Docs, Release ver 2.0 2/6/2026, 1pm CT](https://github.com/safeautonomy-illinois-students/mp1-sp26-release/blob/main/docs/MP1_Dev_Spring2026.pdf)
 - [Walkthrough slides](https://github.com/safeautonomy-illinois-students/mp1-sp26-release/blob/main/docs/ECE484_SP26_MP1_Walkthrough.pdf) 
 
+## MP2/HW2
+
+Github [classroom link](https://classroom.github.com/a/pZhsfGkH).
+
+- [Code](https://github.com/safeautonomy-illinois-students/mp2-sp26-release)
+- [Docs](https://github.com/safeautonomy-illinois-students/mp2-sp26-release/blob/main/docs/ECE484_MP2_SP2026.pdf)
+- [Walkthrough slides](https://github.com/safeautonomy-illinois-students/mp2-sp26-release/blob/main/docs/ece484_sp26_mp2_walkthrough.pdf)
+
 <!--
 - MP2/HW2
     - [Link to Git Repo Release](https://gitlab.engr.illinois.edu/GolfCar/mp-release-fa25/-/tree/main/src/mp2?ref_type=heads)
