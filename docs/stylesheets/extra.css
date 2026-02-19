@@ -330,3 +330,50 @@ html.js .sa-reveal.is-visible {
   justify-content: center;
   display: flex;
 }
+
+.assignment-row {
+  display: grid;
+  grid-template-columns: 320px minmax(0, 1fr);
+  gap: 1.1rem;
+  align-items: start;
+  margin: 0.75rem 0 1.8rem;
+}
+
+.assignment-figure {
+  margin: 0;
+  width: 100%;
+  aspect-ratio: 4 / 4;
+  border: 1px solid var(--sa-card-border);
+  border-radius: 12px;
+  overflow: hidden;
+  background: rgba(22, 37, 115, 0.06);
+  box-shadow: 0 8px 20px rgba(15, 25, 40, 0.08);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.assignment-figure__img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  display: block;
+}
+
+.assignment-text > :first-child {
+  margin-top: 0;
+}
+
+.assignment-text > :last-child {
+  margin-bottom: 0;
+}
+
+@media (max-width: 820px) {
+  .assignment-row {
+    grid-template-columns: 1fr;
+  }
+
+  .assignment-figure {
+    max-width: 320px;
+  }
+}
