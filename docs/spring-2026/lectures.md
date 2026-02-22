@@ -237,4 +237,4 @@ All TA Office Hours will be held in ECEB 5072 lab.
 |Tuesday|	5-6PM|	Will|
 |Wednesday|	11am-12PM|	Abhishek|
 |Thursday|	10-11AM|	James|
-|Thursday|	5-6PM|	Hanna|
+|Thursday|	6-7PM|	Hanna|
