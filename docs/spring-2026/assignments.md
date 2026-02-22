@@ -14,6 +14,7 @@ You will be doing programming assignments (MPs) in groups and homework (HW) prob
       <li><a href="https://github.com/safeautonomy-illinois-students/mp0-sp26-release">Code</a></li>
       <li><a href="https://github.com/safeautonomy-illinois-students/mp0-sp26-release/blob/main/docs/MP0_Release_Spring2026.pdf">Docs</a></li>
       <li><a href="https://github.com/safeautonomy-illinois-students/mp0-sp26-release/blob/main/docs/ECE484_SP26_MP0_Walkthrough.pdf">Walkthrough slides</a></li>
+      <li><a href="https://github.com/safeautonomy-illinois-students/mp0-sp26-release/blob/main/docs/HW0_Solutions.pdf">HW0 Solutions</a></li>
     </ul>
   </div>
 </div>
@@ -27,6 +28,7 @@ You will be doing programming assignments (MPs) in groups and homework (HW) prob
   <li><a href="https://github.com/safeautonomy-illinois-students/mp1-sp26-release">Code Release ver 2.0 2/6/2026, 1pm CT</a></li>
   <li><a href="https://github.com/safeautonomy-illinois-students/mp1-sp26-release/blob/main/docs/MP1_Dev_Spring2026.pdf">Docs, Release ver 2.0 2/6/2026, 1pm CT</a></li>
   <li><a href="https://github.com/safeautonomy-illinois-students/mp1-sp26-release/blob/main/docs/ECE484_SP26_MP1_Walkthrough.pdf">Walkthrough slides</a></li>
+  <li><a href="https://github.com/safeautonomy-illinois-students/mp1-sp26-release/blob/main/docs/HW1_Solutions.pdf">HW1 Solutions</a></li>
 </ul>
 
 ## MP2/HW2: Control, lane-keeping
