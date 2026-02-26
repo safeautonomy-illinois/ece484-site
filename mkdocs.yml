@@ -31,7 +31,12 @@ nav:
   - Schedule: spring-2026/lectures.md
   - Assignments: spring-2026/assignments.md
   - Team: spring-2026/team.md
-  - Projects: spring-2026/projects.md
+  - Projects:
+      - Overview: spring-2026/projects.md
+      - Quadrotor: spring-2026/projects/quadrotor/index.md
+      - RacingSim (GRAIC): spring-2026/projects/racing-sim/index.md
+      - F1tenth: spring-2026/projects/f1tenth/index.md
+      - Robotaxi (GEM): spring-2026/projects/robotaxi/index.md
   - Resources: spring-2026/resources.md
   - Policies: spring-2026/policies.md
   - Archive:

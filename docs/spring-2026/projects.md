@@ -1,7 +1,11 @@
 # Projects - Spring 2026
 
+_Build something cool!_ We will provide  a suite of platforms and simulators  including the F1Tenth 1/10-scale autonomous racing platform, the Polaris GEM electric vehicle---a full-scale autonomous vehicle, the Crazyflie drone, and the GRAIC racing simulator. You will choose your project track in the first few weeks of the semester, and you will be working on it for the rest of the semester. 
+
+
 
 # Platforms
+
 
 <table style="border-collapse:collapse; border:none;">
   <tr>
@@ -17,13 +21,19 @@
       <img src="/ece484-site/assets/images/quadrotor-sketch.png" alt="Quadrotor platform sketch" class="platform-image platform-image--quadrotor">
       <div>Quadrotor</div>
     </td>
+    <td style="border:none; padding:6px; text-align:center; background:none;">
+      <img src="/ece484-site/assets/images/GRAIC.png" alt="GRAIC racing simulation" class="platform-image platform-image--graic">
+      <div>RacingSim (GRAIC)</div>
+    </td>
   </tr>
 </table>
 
 
 ## Timeline
 
-Will be posted shortly. In the meantime see project highlights from [Spring 2025](https://www.youtube.com/watch?v=J0_EZeZfXWk), [Spring 2022](https://www.youtube.com/watch?v=-f7Qd7TnaDU&list=PLcA4s4DKSOF12iLaJmmJ_2ZoCD6aFd9Ct), and [Spring 2020](https://www.youtube.com/watch?v=y7FBNyDkFGc).
+Posted on [schedule](https://courses.engr.illinois.edu/ece484/sp2026/lectures.html).
+
+shortly. In the meantime see project highlights from [Spring 2025](https://www.youtube.com/watch?v=J0_EZeZfXWk), [Spring 2022](https://www.youtube.com/watch?v=-f7Qd7TnaDU&list=PLcA4s4DKSOF12iLaJmmJ_2ZoCD6aFd9Ct), and [Spring 2020](https://www.youtube.com/watch?v=y7FBNyDkFGc).
 <!-- 
 October 3rd: Signups Open
 
