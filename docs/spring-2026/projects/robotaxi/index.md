@@ -1,8 +1,13 @@
-# Robotaxi (GEM) — Car Summon
+# Robotaxi Summon (GEM)
 
 ## Overview
 
+<div style="display: flex; align-items: flex-start; gap: 1.5rem; flex-wrap: wrap;">
+<div style="flex: 1; min-width: 200px;">
 Summon a full-scale GEM vehicle to a GPS coordinate via phone. The car must exit a parking spot, follow lanes autonomously, avoid obstacles, and stop within 2 m of the target.
+</div>
+<img src="/ece484-site/assets/images/gem-sketch.png" alt="GEM vehicle" style="max-width: 200px; border-radius: 6px; flex-shrink: 0;">
+</div>
 
 ## Objectives
 
@@ -27,13 +32,14 @@ Your implementation should cover the following modules:
 
 ## Milestones
 
-| # | Milestone | Description |
-|---|-----------|-------------|
-| 1 | Simulation | Develop and test all software modules in the GEM simulator |
-| 2 | Lane following (IRL) | Integrate and test the lane-following controller on the physical vehicle |
-| 3 | Park-to-drive (IRL) | Integrate and test the park-to-drive and lane-following controllers for one initial parking spot |
-| 4 | Full system (IRL) | Integrate and test the complete system with stop signs/traffic cones for all initial parking locations |
-
+| # | Time | Milestone | Description |
+|---|------|-----------|-------------|
+| 1 | First review | Setup | Setup simulator and become familiar with it. |
+| 2 |  | Simulation | Develop and test all software modules in the GEM simulator |
+| 3 |  | Lane following (IRL) | Integrate and test the lane-following controller on the physical vehicle |
+| 4 |  | Park-to-drive (IRL) | Integrate and test the park-to-drive and lane-following controllers for one initial parking spot |
+| 5 |  | Full system (IRL) | Integrate and test the complete system with stop signs/traffic cones for all initial parking locations |
+| 6 | Final presentation | Product launch | Final demo at the end of the semester and launch project site |
 ## Bonus Points
 
 - Drive around an obstacle while staying inside the drivable region

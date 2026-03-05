@@ -1,8 +1,13 @@
-# F1tenth — Time Trial Racing
+# F1tenth — Time Trial
 
 ## Overview
 
+<div style="display: flex; align-items: flex-start; gap: 1.5rem; flex-wrap: wrap;">
+<div style="flex: 1; min-width: 200px;">
 Race an F1-Tenth car around a track using any combination of onboard sensors (LiDAR, camera, IMU) and algorithms. Hardware modifications are not permitted; one car races at a time.
+</div>
+<img src="/ece484-site/assets/images/f1tenthsketch.png" alt="F1Tenth car" style="max-width: 200px; border-radius: 6px; flex-shrink: 0;">
+</div>
 
 ## Race Scoring
 
@@ -29,13 +34,14 @@ Focus on completing the race without any rescues in the smallest amount of time.
 
 ## Milestones
 
-| # | Milestones | Description |
-|---|-----------|-------------|
-| 1 | Simulation | Develop and test all software modules in simulation |
-| 2 | Lane following (IRL) | Integrate and test lane following with a single vehicle on the physical track |
-| 3 | Robustness testing | Test under varied conditions (different lane widths, lighting, etc.) |
-| 4 | Mid-semester race | First race at the halfway point of the project |
-| 5 | Final race | Final race at the end of the semester |
+| # | Time | Milestone | Description |
+|---|------|-----------|-------------|
+| 1 | First review | Setup | Setup simulator and become familiar with it. |
+| 2 |  | Simulation | Develop and test all software modules in simulation |
+| 3 |  | Lane following (IRL) | Integrate and test lane following with a single vehicle on the physical track |
+| 4 |  | Robustness testing | Test under varied conditions (different lane widths, lighting, etc.) |
+| 5 |  | Mid-semester race | First race at the halfway point of the project |
+| 6 |  Final presentation | Final race | Final race at the end of the semester and launch project site|
 
 ## Bonus Points
 

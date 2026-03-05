@@ -1,9 +1,14 @@
 
-# Quadrotor — Drone Flight
+# Drone Race
 
 ## Overview
 
+<div style="display: flex; align-items: flex-start; gap: 1.5rem; flex-wrap: wrap;">
+<div style="flex: 1; min-width: 200px;">
 Develop controllers for Crazyflie drones to fly autonomously through gate-based obstacle courses. Starting in simulation (CrazySim), validated controllers are deployed to hardware, then optimized for a speed competition.
+</div>
+<img src="/ece484-site/assets/images/quadrotor-sketch.png" alt="Quadrotor drone" style="max-width: 200px; border-radius: 6px; flex-shrink: 0;">
+</div>
 
 ## Objectives
 
@@ -29,12 +34,14 @@ All necessary hardware will be provided.
 
 ## Milestones
 
-| # | Milestone | Description |
-|---|-----------|-------------|
-| 1 | Simulation | Develop all necessary software and validate flight in simulation |
-| 2 | Hover & fly (ROS2) | Get the Crazyflie to hover and fly autonomously using ROS2 |
-| 3 | Hardware flight | Test flight through obstacle courses in the testing arena with the Crazyflie |
-| 4 | Optimization | Make creative optimizations to improve speed and robustness in the testing arena |
+| # | Time | Milestone | Description |
+|---|------|-----------|-------------|
+| 1 | First review | Setup | Setup simulator and become familiar with it. |
+| 2 |  | Simulation | Develop all necessary software and validate flight in simulation |
+| 3 |  | Hover & fly (ROS2) | Get the Crazyflie to hover and fly autonomously using ROS2 |
+| 4 |  | Hardware flight | Test flight through obstacle courses in the testing arena with the Crazyflie |
+| 5 |  | Optimization | Make creative optimizations to improve speed and robustness in the testing arena |
+| 6 | Final presentation | Final race | Final race at the end of the semester and launch project site |
 
 ## Primary Mentor
 

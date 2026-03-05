@@ -106,7 +106,9 @@
     <tr>
       <td>7</td>
       <td>03/03</td>
-      <td>Control 2: PID, linear systems (slides)</td>
+      <td>PID, LTI, stability
+      <a href="/ece484-site/assets/pdfs/spring-2026/Spring26_Lecture9_LTI.pdf">slides</a>
+      </td>
       <td>03/05</td>
       <td>Control 3: linear systems, stability, Lyapunov, Hurwitz criteria (slides)</td>
       <td>03/06</td>

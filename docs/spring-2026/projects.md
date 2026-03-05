@@ -1,6 +1,6 @@
 # Projects - Spring 2026
 
-_Build something cool!_ We will provide  a suite of platforms and simulators  including the F1Tenth 1/10-scale autonomous racing platform, the Polaris GEM electric vehicle---a full-scale autonomous vehicle, the Crazyflie drone, and the GRAIC racing simulator. You will choose your project track in the first few weeks of the semester, and you will be working on it for the rest of the semester. 
+_Build something cool!_ We will provide  a suite of platforms and simulators  including the F1Tenth 1/10-scale autonomous racing platform, the Polaris GEM electric vehicle---a full-scale autonomous vehicle, the Crazyflie drone, and the GRAIC racing simulator. You will choose your project track in the first few weeks of the semester, and you will be working on it for the rest of the semester. Our awesome project mentors will be there to guide you along the way. You will have the opportunity to test your software on real hardware, and you will compete against other teams in a final competition at the end of the semester.
 
 
 
@@ -33,7 +33,7 @@ _Build something cool!_ We will provide  a suite of platforms and simulators  in
 
 Posted on [schedule](https://courses.engr.illinois.edu/ece484/sp2026/lectures.html).
 
-shortly. In the meantime see project highlights from [Spring 2025](https://www.youtube.com/watch?v=J0_EZeZfXWk), [Spring 2022](https://www.youtube.com/watch?v=-f7Qd7TnaDU&list=PLcA4s4DKSOF12iLaJmmJ_2ZoCD6aFd9Ct), and [Spring 2020](https://www.youtube.com/watch?v=y7FBNyDkFGc).
+See project highlights from [Spring 2025](https://www.youtube.com/watch?v=J0_EZeZfXWk), [Spring 2022](https://www.youtube.com/watch?v=-f7Qd7TnaDU&list=PLcA4s4DKSOF12iLaJmmJ_2ZoCD6aFd9Ct), and [Spring 2020](https://www.youtube.com/watch?v=y7FBNyDkFGc).
 <!-- 
 October 3rd: Signups Open
 
