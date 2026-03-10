@@ -56,6 +56,6 @@ James
 
 ## References
 
-- [F1-Tenth (Illinois)](https://publish.illinois.edu/robotics-autonomy-resources/f1tenth/)
+- [F1-Tenth (Illinois)](https://github.com/UIUC-Robotics/f1tenth_simulator)
 - [CSL Studio](https://maps.app.goo.gl/vXaAEQXA3FaB8PPs7)
 

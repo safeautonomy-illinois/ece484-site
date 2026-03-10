@@ -47,10 +47,14 @@ All necessary hardware will be provided.
 
 Abhishek
 
+## Setup
+All instructions for software setup are listed on the CrazySim link below.
+
+Please post/look at the drone project setup megathread on Campuswire if you encounter any issues.
+
 ## References
 
-- [CrazySim (GitHub)](https://github.com/gtfactslab/CrazySim)
-- [crazyswarm2 (GitHub)](https://github.com/IMRCLab/crazyswarm2)
+- [CrazySim (GitHub)](https://github.com/illiniaerialrobotics/cf-ros2)/
 - [Crazyflie Documentation](https://www.bitcraze.io/documentation/tutorials/getting-started-with-crazyflie-2-x/)
 - [CSL Studio](https://maps.app.goo.gl/vXaAEQXA3FaB8PPs7)
 
