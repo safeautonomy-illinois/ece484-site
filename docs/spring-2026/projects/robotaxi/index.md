@@ -53,6 +53,7 @@ Fatemeh and Will
 
 ## References
 
+- [Polaris GEM Simulator](https://github.com/UIUC-Robotics/gem_simulator)
 - [Polaris GEM e2 User Manual](https://wiki.illinois.edu/wiki/display/GAG/Polaris+GEM+e2+User+Manual)
 - [DRS Laboratory Safety Training](https://drs.illinois.edu/Page/Programs/LaboratorySafetyTraining)
 
