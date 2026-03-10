@@ -110,7 +110,7 @@
       <a href="/ece484-site/assets/pdfs/spring-2026/Spring26_Lecture9_LTI.pdf">slides</a>
       </td>
       <td>03/05</td>
-      <td>Stability, Lyapunov functions,  invariance (again)
+      <td>Stability, Lyapunov functions,  invariance 
       <a href="/ece484-site/assets/pdfs/spring-2026/Spring26_Lecture10_Lyapunov.pdf">slides</a>
       </td>
       <td>03/06</td>
@@ -120,7 +120,9 @@
     <tr>
       <td>8</td>
       <td>03/10</td>
-      <td>TBD</td>
+      <td>LMIs, Filtering, Markov property, conditional independence 
+      <a href="/ece484-site/assets/pdfs/spring-2026/Spring26_Lecture11_filtering.pdf">slides</a>
+      </td>
       <td>03/12</td>
       <td>Project review</td>
       <td>03/13</td>
@@ -142,7 +144,7 @@
       <td>03/24</td>
       <td>Filtering 1: Markov chains, conditional probability, motion models (slides)</td>
       <td>03/26</td>
-      <td>Filtering 2: localization bayes filter, histogram filter, beliefs (slides)</td>
+      <td>Filtering 2: localization bayes filter, histogram filter, beliefs slides</td>
       <td>03/27</td>
       <td>Open Lab</td>
       <td>-</td>
