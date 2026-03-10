@@ -53,7 +53,7 @@ Fatemeh and Will
 
 ## References
 
-- [Polaris GEM e2 User Manual](https://wiki.illinois.edu/wiki/display/GAG/Polaris+GEM+e2+User+Manual)
+- [Polaris GEM e2 User Manual](https://publish.illinois.edu/robotics-autonomy-resources/gem-e2/)
 - [DRS Laboratory Safety Training](https://drs.illinois.edu/Page/Programs/LaboratorySafetyTraining)
 
 
