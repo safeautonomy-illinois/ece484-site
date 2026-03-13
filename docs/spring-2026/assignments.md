@@ -56,9 +56,9 @@ You will be doing programming assignments (MPs) in groups and homework (HW) prob
   </figure>
   <div class="assignment-text">
     <ul>
-      <li><a href="https://github.com/safeautonomy-illinois-students/mp3-sp26-release">Code</a></li>
-      <li><a href="https://github.com/safeautonomy-illinois-students/mp3-sp26-release/blob/main/docs/ECE484_MP3_SP2026.pdf">Docs</a></li>
-      <li><a href="https://github.com/safeautonomy-illinois-students/mp3-sp26-release/blob/main/docs/ECE484_SP26_MP3_Walkthrough.pdf">Walkthrough slides</a></li>
+      <li><a href="https://classroom.github.com/a/-hlcvHuF">Github Classroom Link</a></li>
+      <li><a href="https://github.com/safeautonomy-illinois-students/uiuc-ece484-sp26-mp3-sp26-mp3-sp26-release/blob/main/docs/ECE484_MP3_SP2026.pdf">Docs</a></li>
+      <li><a href="https://github.com/safeautonomy-illinois-students/uiuc-ece484-sp26-mp3-sp26-mp3-sp26-release/blob/main/docs/ECE484_SP26_MP3_Walkthrough.pdf">Walkthrough slides</a></li>
     </ul>
   </div>
 </div>
