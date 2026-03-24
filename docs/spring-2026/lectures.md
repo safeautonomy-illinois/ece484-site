@@ -142,7 +142,7 @@
     <tr>
       <td>9</td>
       <td>03/24</td>
-      <td>Filtering 1: Bayes filtering <a href="/ece484-site/assets/pdfs/spring-2026/Spring26_Lecture12_bayesfiltering.pdf"></td>
+      <td> Bayes filtering <a href="/ece484-site/assets/pdfs/spring-2026/Spring26_Lecture12_bayesfiltering.pdf"></td>
       <td>03/26</td>
       <td>Filtering 2: localization bayes filter, histogram filter, beliefs slides</td>
       <td>03/27</td>
