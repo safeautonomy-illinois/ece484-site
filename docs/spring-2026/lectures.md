@@ -144,7 +144,9 @@
       <td>03/24</td>
       <td> Bayes filtering <a href="/ece484-site/assets/pdfs/spring-2026/Spring26_Lecture12_bayesfiltering.pdf">slides</a></td>
       <td>03/26</td>
-      <td>Kalman filter</td>
+      <td>Kalman filter
+      <a href="/ece484-site/assets/pdfs/spring-2026/Spring26_Lecture13_KF.pdf">slides</a>
+      </td>
       <td>03/27</td>
       <td>Open Lab</td>
       <td>-</td>
