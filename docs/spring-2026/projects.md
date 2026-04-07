@@ -29,6 +29,61 @@ _Build something cool!_ We will provide  a suite of platforms and simulators  in
 </table>
 
 
+## Grading Rubric
+
+The team project is worth 25% of your total grade. The breakdown is as follows:
+
+### PITCH (10%)
+
+### MIDPOINT CHECK-IN (20%)
+
+**Project web page (5 points)**
+
+- Near final architecture diagram
+- Annotated videos of simulation as well as hardware 
+- Graphs with performance metrics
+- What worked and did not work, next steps
+
+**Hardware (5 points)**
+
+- Collected sufficient data
+- Videos/graphs showing that hardware development has gone through
+- Details different for each project
+
+**Software (5 points)**
+
+- 80-90% done on software
+- Videos of simulation working
+- Details different for each project
+
+**Questions (5 points)**
+
+- Details for how to setup hardware
+- How has hardware data been processed/used for the group outside of CSL/Highbay (e.g., record bags)
+- Project-specific sensor details
+- Robustness testing
+
+### FINAL PROJECT (70%)
+
+## Presentation Guidelines
+
+### 7 Deadly Sins 
+
+1. Raw videos without annotations, metrics, or interpretation.
+2. Graphs with illegible, tiny, or missing labels, legends, and units.
+3. All bold blocks of paragraphs, center-aligned. 
+4. Reading from a script.
+5. Improper credit attributions. Incomplete references. Minimally give the title of the work/library, last name of lead author, publication venue, year, and URL for code.
+6. Overly technical jargon without explanations. 
+7. No discussion of lessons learned, or what the community can take away from your experiences.
+
+### 4 Virtues
+
+1. Present data, not just ideas. Block diagrams are boring — use them only as a necessity.
+2. Show simulation runs, error margins, and metrics on speed and safety margins.
+3. Data with proper statistics:  number of runs, mean, median, standard deviation, and help us interpret what this means in terms of performance and reliability.
+4. Set aside time to discuss lessons learned. Beyond *what* you have done and *how*, tell us *why* you made the design decisions, and what lessons the community can take away from your experiences.
+
 ## Timeline
 
 Posted on [schedule](https://courses.engr.illinois.edu/ece484/sp2026/lectures.html).
