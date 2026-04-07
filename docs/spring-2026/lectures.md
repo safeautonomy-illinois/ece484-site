@@ -164,9 +164,9 @@
     <tr>
       <td>11</td>
       <td>04/07</td>
-      <td>Filtering 3: Kalman filter, localization particle filter, importance sampling (slides)</td>
+      <td>Planning </td>
       <td>04/09</td>
-      <td>Filtering 4: review; SLAM (slides)</td>
+      <td>Planning 2 </td>
       <td>04/10</td>
       <td>MP3 due</td>
       <td>-</td>
@@ -174,7 +174,7 @@
     <tr>
       <td>12</td>
       <td>04/14</td>
-      <td>Planning 1: graph search, uniform cost search (slides)</td>
+      <td>No class; CSL 75th anniversary</td>
       <td>04/16</td>
       <td>Planning 2: A*, optimal search, cost-to-go heuristics (slides)</td>
       <td>04/17</td>
@@ -194,7 +194,7 @@
     <tr>
       <td>15</td>
       <td>04/28</td>
-      <td>Guest Lecture</td>
+      <td></td>
       <td>04/30</td>
       <td>Review Session</td>
       <td>05/01</td>
