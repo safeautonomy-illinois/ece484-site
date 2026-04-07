@@ -214,12 +214,12 @@
     <tr>
       <td></td>
       <td>05/07</td>
-      <td colspan="6">Reading day</td>
+      <td colspan="6">Reading day; F1tenth race in 3002</td>
     </tr>
     <tr class="sa-schedule-special">
       <td></td>
-      <td>05/08</td>
-      <td colspan="6">Final exam week; Final presentation/demo</td>
+      <td>05/14</td>
+      <td colspan="6">Final presentation during exam period(7-10pm)</td>
     </tr>
   </tbody>
 </table>
