@@ -35,7 +35,7 @@ The team project is worth 25% of your total grade. The breakdown is as follows:
 
 ### PITCH (10%)
 
-### MIDPOINT CHECK-IN (20%)
+### MIDPOINT CHECK-IN 4/21 Lecture hour(20%)
 
 **Project web page (5 points)**
 
@@ -63,7 +63,7 @@ The team project is worth 25% of your total grade. The breakdown is as follows:
 - Project-specific sensor details
 - Robustness testing
 
-### FINAL PROJECT (70%)
+### FINAL PROJECT 5/14 7-10 pm Final exam time (70%)
 
 ## Presentation Guidelines
 

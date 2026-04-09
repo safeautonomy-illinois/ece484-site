@@ -164,9 +164,11 @@
     <tr>
       <td>11</td>
       <td>04/07</td>
-      <td>Planning </td>
+      <td>Planning: heuristics, A* search <a href="/ece484-site/assets/pdfs/spring-2026/Spring26-Lecture14_search_plan.pdf">slides</a></td>
       <td>04/09</td>
-      <td>Planning 2 </td>
+      <td>A*, Bellman, Dynamic Programming, LQR
+      <a href="/ece484-site/assets/pdfs/spring-2026/Spring26-Lecture15_DP2LQR.pdf">slides</a>
+       </td>
       <td>04/10</td>
       <td>MP3 due</td>
       <td>-</td>
@@ -184,9 +186,9 @@
     <tr>
       <td>13</td>
       <td>04/21</td>
-      <td>Planning 3: hybrid A*, PRM, probabilistic completeness (slides)</td>
+      <td>Project midpoint review</td>
       <td>04/23</td>
-      <td>Planning 4: RRT, RRG, asymptotic optimality (slides)</td>
+      <td>Planning 3: hybrid A*, PRM, probabilistic completeness (slides)</td>
       <td>04/24</td>
       <td>-</td>
       <td>-</td>
@@ -194,7 +196,7 @@
     <tr>
       <td>15</td>
       <td>04/28</td>
-      <td></td>
+      <td>Planning 4: RRT, RRG, asymptotic optimality (slides)</td>
       <td>04/30</td>
       <td>Review Session</td>
       <td>05/01</td>
