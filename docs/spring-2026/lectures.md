@@ -179,7 +179,7 @@
       <td>No class; CSL 75th anniversary</td>
       <td>04/16</td>
       <td>Probabilistic planning 
-      <a href="/ece484-site/assets/pdfs/spring-2026/Spring26-Lecture16_rrt.pdf">slides</a></td>
+      <a href="/ece484-site/assets/pdfs/spring-2026/Spring26-Lecture16_prm.pdf">slides</a></td>
       <td>04/17</td>
       <td></td>
       <td>-</td>
@@ -189,7 +189,8 @@
       <td>04/21</td>
       <td>Project midpoint review</td>
       <td>04/23</td>
-      <td>Planning 3: hybrid A*, PRM, probabilistic completeness (slides)</td>
+      <td>RRT, RRG
+      <a href="/ece484-site/assets/pdfs/spring-2026/Spring26-Lecture16_rrt.pdf">slides</a></td>
       <td>04/24</td>
       <td>-</td>
       <td>-</td>
