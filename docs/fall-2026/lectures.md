@@ -81,7 +81,10 @@
       <br>
       <a href="http://publish.illinois.edu/safe-autonomy/files/2026/09/Fall26_Lecture7_Stereo.pdf">slides</a></td>
       <td>09/17</td>
-      <td>Control 1: ODEs, lipschitz contuinity, bang-bang control</td>
+      <td>Control 1: ODEs, lipschitz contuinity, bang-bang control
+      <br>
+      <a href="/ece484-site/assets/pdfs/fall-2026/Fall26_Lecture8_Control1.pdf">slides</a>
+      </td>
       <td>09/18</td>
       <td>MP2 walkthrough slides</td>
       <td>MP2 released</td>
