@@ -40,7 +40,6 @@ You will be doing programming assignments (MPs) in groups and homework (HW) prob
     <img src="/ece484-site/assets/images/MP2_control.png" alt="MP2 control figure" class="assignment-figure__img">
   </figure>
   <div class="assignment-text">
-    <p>Github <a href="https://classroom.github.com/a/BWMoSv4Z">classroom link</a>.</p>
     <ul>
       <li><a href="https://github.com/safeautonomy-illinois-students/fa26-mp2-release">Code</a></li>
       <li><a href="https://github.com/safeautonomy-illinois-students/fa26-mp2-release/blob/main/docs/ECE484_MP2_FA2026.pdf">Docs</a></li>
