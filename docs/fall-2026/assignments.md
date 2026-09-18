@@ -33,7 +33,7 @@ You will be doing programming assignments (MPs) in groups and homework (HW) prob
   </div>
 </div>
 
-## MP2/HW2: Control, lane-keeping
+## MP2/HW2: Control, lane-keeping (Release 9/18/26)
 
 <div class="assignment-row">
   <figure class="assignment-figure">
