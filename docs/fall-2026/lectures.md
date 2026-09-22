@@ -156,7 +156,7 @@
       <td>11/05</td>
       <td>Midterm 2 (in class)</td>
       <td>11/06</td>
-      <td>MP3 Demo (MP3 due)</td>
+      <td>Open Lab</td>
       <td>–</td>
     </tr>
     <tr>
@@ -166,7 +166,7 @@
       <td>11/12</td>
       <td>Planning 2: A*, optimal search, cost-to-go heuristics</td>
       <td>11/13</td>
-      <td>Open Lab</td>
+      <td>MP3 Demo (MP3 due)</td>
       <td>–</td>
     </tr>
     <tr>
