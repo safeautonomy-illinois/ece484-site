@@ -122,9 +122,9 @@
     <tr>
       <td>8</td>
       <td>10/13</td>
-      <td>Pitch Presentation 1</td>
+      <td>Filtering 1: Markov chains, conditional probability, motion models</td>
       <td>10/15</td>
-      <td>Pitch Presentation 2</td>
+      <td>Filtering 2: localization bayes filter, histogram filter, beliefs</td>
       <td>10/16</td>
       <td>MP3 Walkthrough slides</td>
       <td>MP3 released</td>
@@ -132,9 +132,9 @@
     <tr>
       <td>9</td>
       <td>10/20</td>
-      <td>Filtering 1: Markov chains, conditional probability, motion models</td>
+      <td>Pitch Presentation 1</td>
       <td>10/22</td>
-      <td>Filtering 2: localization bayes filter, histogram filter, beliefs</td>
+      <td>Pitch Presentation 2</td>
       <td>10/23</td>
       <td>Open Lab</td>
       <td>–</td>
@@ -144,7 +144,7 @@
       <td>10/27</td>
       <td>Filtering 3: Kalman filter, localization particle filter, importance sampling</td>
       <td>10/29</td>
-      <td>Review Session (in class)</td>
+      <td>Filtering 4: review; SLAM</td>
       <td>10/30</td>
       <td>Open Lab</td>
       <td>–</td>
@@ -152,9 +152,9 @@
     <tr class="sa-schedule-highlight">
       <td>11</td>
       <td>11/03</td>
-      <td>Midterm 2 (in class)</td>
+      <td>Review Session (in class)</td>
       <td>11/05</td>
-      <td>Filtering 4: review; SLAM</td>
+      <td>Midterm 2 (in class)</td>
       <td>11/06</td>
       <td>MP3 Demo (MP3 due)</td>
       <td>–</td>
