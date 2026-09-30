@@ -44,7 +44,7 @@ You will be doing programming assignments (MPs) in groups and homework (HW) prob
       <li><a href="https://github.com/safeautonomy-illinois-students/fa26-mp2-release">Code</a></li>
       <li><a href="https://github.com/safeautonomy-illinois-students/fa26-mp2-release/blob/main/docs/ECE484_MP2_FA2026.pdf">Docs</a></li>
       <li><a href="https://github.com/safeautonomy-illinois-students/fa26-mp2-release/blob/main/docs/ECE484_FA26_MP2_Walkthrough.pptx">Walkthrough slides</a></li>
-      <!-- <li><a href="https://safeautonomy-illinois-students.github.io/mp2-leaderboard/#">Leaderboard</a></li> -->
+      <li><a href="https://safeautonomy-illinois-students.github.io/mp2-leaderboard/">Leaderboard</a></li> 
     </ul>
   </div>
 </div>
