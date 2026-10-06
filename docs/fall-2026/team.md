@@ -15,6 +15,10 @@
     <td style="border:none; padding:4px; text-align:center; background:none;">Prof. <a href="https://huan-zhang.com/">Huan Zhang</a></td>
     <td style="border:none; padding:4px; text-align:center; background:none;">Prof. <a href="https://mitras.ece.illinois.edu/">Sayan Mitra</a></td>
   </tr>
+  <tr>
+    <td style="border:none; padding:4px; text-align:center; background:none;">(<strong>on campus/in-person</strong> sections)</td>
+    <td style="border:none; padding:4px; text-align:center; background:none;">(<strong>online/recorded</strong> sections)</td>
+  </tr>
 </table>
 
 ## TAs

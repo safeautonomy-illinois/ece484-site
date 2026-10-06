@@ -79,7 +79,7 @@
       <td>09/15</td>
       <td>Perception 4: depth estimation, visual odometry, fundamental matrix, epipolar geometry
       <br>
-      <a href="http://publish.illinois.edu/safe-autonomy/files/2026/09/Fall26_Lecture7_Stereo.pdf">slides</a></td>
+      <a href="/ece484-site/assets/pdfs/fall-2026/Fall26_Lecture7_Stereo.pdf">slides</a></td>
       <td>09/17</td>
       <td>Control 1: ODEs, lipschitz contuinity, bang-bang control
       <br>
@@ -112,7 +112,10 @@
     <tr>
       <td>7</td>
       <td>10/06</td>
-      <td>Control 2: PID, linear systems</td>
+      <td>Control 2: PID, linear systems
+      <br>
+      <a href="/ece484-site/assets/pdfs/fall-2026/Fall26_Lecture9_Control2.pdf">slides</a>
+      </td>
       <td>10/08</td>
       <td>Control 3: linear systems, stability, Lyapunov, Hurwitz criteria</td>
       <td>10/09</td>
