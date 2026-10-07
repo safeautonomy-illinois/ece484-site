@@ -83,7 +83,6 @@ ECE484 Presentation Guidelines:
 - **October 1st**: Finalize Teams and Tracks
 - **October 6th**: Start Safety Training for Hardware Teams
 - **October 20th and 22nd**: Project Pitch Presentation
-- **October 19th**: Official start of final projects
 - **December 11st**: Final Presentations
 
 TBD: Team evaluation form due [link will be made available towards the end of semester]
