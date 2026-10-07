@@ -36,12 +36,14 @@ Focus on completing the race without any rescues in the smallest amount of time.
 
 | # | Time | Milestone | Description |
 |---|------|-----------|-------------|
-| 1 | First review | Setup | Setup simulator and become familiar with it. |
-| 2 |  | Simulation | Develop and test all software modules in simulation |
-| 3 |  | Lane following (IRL) | Integrate and test lane following with a single vehicle on the physical track |
-| 4 |  | Robustness testing | Test under varied conditions (different lane widths, lighting, etc.) |
-| 5 |  | Mid-semester race | First race at the halfway point of the project |
-| 6 |  Final presentation | Final race | Final race at the end of the semester and launch project site|
+| 1 | | Software Setup | Setup simulator and become familiar with it. |
+| 2 | Pitch Presentation | Hardware Setup | Run and become familiar with teleoperation and basic autonomous code |
+
+| 3 |  | Simulation | Develop and test all software modules in simulation |
+| 4 |  | Lane following (IRL) | Integrate and test lane following with a single vehicle on the physical track |
+| 5 |  | Robustness testing | Test under varied conditions (different lane widths, lighting, etc.) |
+| 6 |  | Mid-semester race | First race at the halfway point of the project |
+| 7 |  Final presentation | Final race | Final race at the end of the semester and launch project site|
 
 ## Bonus Points
 
@@ -51,7 +53,7 @@ Focus on completing the race without any rescues in the smallest amount of time.
 
 ## Primary Mentor
 
-James
+Taowei
 
 
 ## References
