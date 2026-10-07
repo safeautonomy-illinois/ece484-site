@@ -39,7 +39,7 @@ The team project is worth 25% of your total grade. The breakdown of the grades i
 
 #### PROJECT PITCHES (10%)
 
-In class, you’ll be giving a high-level pitch of what you would like to focus on for your project. Here is a [template](https://uillinoisedu-my.sharepoint.com/:p:/g/personal/jpohov2_illinois_edu/EawRLZlK-GNKrTyhzkXltB0BGKLrcjTIObI3xqVC-fcfqw?e=173efo) for your presentation.
+In class, you’ll be giving a high-level pitch of what you would like to focus on for your project. Here is a [template](https://safeautonomy-illinois-students.github.io/project-site/) for your presentation.
 
 #### MILESTONE CHECK-IN (20%)
 
