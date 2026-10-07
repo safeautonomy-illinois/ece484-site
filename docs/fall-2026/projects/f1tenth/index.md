@@ -38,7 +38,6 @@ Focus on completing the race without any rescues in the smallest amount of time.
 |---|------|-----------|-------------|
 | 1 | | Software Setup | Setup simulator and become familiar with it. |
 | 2 | Pitch Presentation | Hardware Setup | Run and become familiar with teleoperation and basic autonomous code |
-
 | 3 |  | Simulation | Develop and test all software modules in simulation |
 | 4 |  | Lane following (IRL) | Integrate and test lane following with a single vehicle on the physical track |
 | 5 |  | Robustness testing | Test under varied conditions (different lane widths, lighting, etc.) |
