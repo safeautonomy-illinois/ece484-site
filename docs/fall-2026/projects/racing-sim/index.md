@@ -44,6 +44,5 @@ Hanna
 ## References
 
 - [GRAIC Competition](https://popgri.github.io/Race/)
-- [ECE484 GRAIC Installation Guide](/ece484-site/assets/pdfs/spring-2026/GRAIC%202026%20Installation%20(ECE484%20Version).pdf)
-
+- [ECE484 GRAIC Installation Guide](</ece484-site/docs/assets/pdfs/fall-2026/GRAIC 2026 Installation (ECE484 Version) - Google Docs.pdf>)
 
