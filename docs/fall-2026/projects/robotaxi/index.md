@@ -38,7 +38,6 @@ Your implementation should cover the following modules:
 | 3 |  | Lane following (IRL) | Integrate and test the lane-following controller on the physical vehicle |
 | 4 |  | Stop Sign Detection | Integrate the stop sign detector and controller that brings the vehicle to a full stop before proceeding.  |
 | 5 |  | Full system (IRL) | Integrate and test the complete system with stop signs/traffic cones for all initial parking locations |
-
 | 6 |  | Pedestrian Detection | (Groups of 4) Integrate pedestrian detection where the vehicle must wait for two pedestrians to separately cross the track before proceeding |
 | 7 | Final presentation | Product launch | Final demo at the end of the semester and launch project site |
 ## Bonus Points
