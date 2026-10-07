@@ -45,7 +45,7 @@ All necessary hardware will be provided.
 
 ## Primary Mentor
 
-Abhishek
+Vishesh and JD
 
 ## Setup
 All instructions for software setup are listed on the CrazySim link below.
