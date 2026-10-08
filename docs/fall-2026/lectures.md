@@ -117,7 +117,10 @@
       <a href="/ece484-site/assets/pdfs/fall-2026/Fall26_Lecture9_Control2.pdf">slides</a>
       </td>
       <td>10/08</td>
-      <td>Control 3: linear systems, stability, Lyapunov, Hurwitz criteria</td>
+      <td>Control 3: linear systems, stability, Lyapunov, Hurwitz criteria
+      <br>
+      <a href="/ece484-site/assets/pdfs/fall-2026/Fall26_Lecture10_Control3.pdf">slides</a>
+      </td>
       <td>10/09</td>
       <td>MP2 Demo (MP2 due)</td>
       <td>–</td>
