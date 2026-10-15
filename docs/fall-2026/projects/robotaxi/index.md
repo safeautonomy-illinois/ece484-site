@@ -4,8 +4,7 @@
 
 <div style="display: flex; align-items: flex-start; gap: 1.5rem; flex-wrap: wrap;">
 <div style="flex: 1; min-width: 200px;">
-Summon a full-scale GEM vehicle to a GPS coordinate via phone. The car must exit a parking spot, follow lanes autonomously, avoid obstacles, and stop within 2 m of the target.
-</div>
+Operate a full-scale GEM vehicle autonomously though a track consisting of a straightaway and two loops without navigating off course. The car must simultaneously have a perception system for stop sign and pedestrian detection.</div>
 <img src="/ece484-site/assets/images/gem-sketch.png" alt="GEM vehicle" style="max-width: 200px; border-radius: 6px; flex-shrink: 0;">
 </div>
 
@@ -14,27 +13,24 @@ Summon a full-scale GEM vehicle to a GPS coordinate via phone. The car must exit
 Your system will be evaluated on the following criteria:
 
 - Detect the drivable region (lane following)
-- Generate waypoints to the destination location
+- Generate waypoints within driveable region
 - Ensure the car stays in the drivable region for the entire journey
 - Stop completely and automatically when an obstacle or stop sign is detected
-- Resume automatically once the obstacle is removed
-- Stop within 2 m of the goal
+- Resume automatically after stopping
 
 ## System Modules
 
 Your implementation should cover the following modules:
 
-1. **GPS coordinate receiver** — receives a target GPS location 
-2. **Path planner** — decides how to enter the lane (heading south, north, etc.) and routes to the destination
-3. **Camera-based lane-following controller** — lateral and longitudinal control; follows the planned path with possible stops
-4. **Obstacle detector & distance estimator** — detects stop signs and traffic cones and estimates their distance
+1. **Camera-based lane-following controller** — lateral and longitudinal control; follows the planned path with possible stops
+2. **Obstacle detector & distance estimator** — detects stop signs and pedestrians and estimates their distance
 
 ## Milestones
 
 | # | Time | Milestone | Description |
 |---|------|-----------|-------------|
 | 1 |  | Setup | Become comfortable working with GEM hardware and software setup |
-| 2 |  Project Pitch | Demo |Run and become familiar with the GPS waypoint-following demo code |
+| 2 |  Project Pitch | Demo |Run and become familiar with the Joystick controller demo code |
 | 3 | Milestone Check-In | Lane following | Integrate and test the lane-following controller on the physical vehicle |
 | 4 |  | Stop Sign Detection | Integrate the stop sign detector and controller that brings the vehicle to a full stop before proceeding.  |
 | 5 |  |  Pedestrian Detection |  (Groups of 4) Integrate pedestrian detection where the vehicle must wait for two pedestrians to separately cross the track before proceeding  |
@@ -43,8 +39,8 @@ Your implementation should cover the following modules:
 
 ## Bonus Points
 
-- Drive around an obstacle while staying inside the drivable region
-- Start or end at a parking spot
+- Drive around a cone that is in the way
+- Autonomously detect and park in a parking spot
 <!-- - Creative solution -->
 
 ## Primary Mentor
@@ -52,6 +48,7 @@ Your implementation should cover the following modules:
 Eric and Yuxi
 ## References
 
+- [GEM_WS demo/starter code](https://github.com/UIUC-Robotics/gem_ws)
 - [Polaris GEM e2 User Manual](https://publish.illinois.edu/robotics-autonomy-resources/gem-e2/)
 - [Polaris GEM Simulator](https://github.com/UIUC-Robotics/gem_simulator)
 - [DRS Laboratory Safety Training](https://drs.illinois.edu/Page/Programs/LaboratorySafetyTraining)
