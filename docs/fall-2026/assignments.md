@@ -56,11 +56,10 @@ You will be doing programming assignments (MPs) in groups and homework (HW) prob
     <img src="/ece484-site/assets/images/MP3_square.gif" alt="MP3 pose estimation preview" class="assignment-figure__img">
   </figure>
   <div class="assignment-text">
-    <ul>
-      <li><a href="https://github.com/safeautonomy-illinois-students/fa26-mp3-release">Code</a></li>
-      <li><a href="https://github.com/safeautonomy-illinois-students/fa26-mp3-release/blob/main/docs/ECE484_MP3_FA2026.pdf">Docs</a></li>
-      <li><a href="https://github.com/safeautonomy-illinois-students/fa26-mp3-release/blob/main/docs/ECE484_FA26_MP3_Walkthrough.pptx">Walkthrough slides</a></li>
-    </ul>
-  </div>
+  <ul>
+    <li><a href="https://github.com/safeautonomy-illinois-students/fa26-mp3-release">Code</a> </li>
+    <li><a href="/ece484-site/docs/assets/pdfs/fall-2026/ECE484_MP3_FA2026%20(1).pdf">Docs</a></li>
+    <li><a href="/ece484-site/docs/assets/pdfs/fall-2026/ECE484_FA26_MP3_Walkthrough1%20(1).pptx">Walkthrough slides</a></li>
+  </ul>
 </div>
 
