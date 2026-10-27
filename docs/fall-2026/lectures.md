@@ -155,7 +155,7 @@
       <td>10</td>
       <td>10/27</td>
       <td>Filtering 3: Kalman filter, localization particle filter, importance sampling
-      <!-- <br><a href="/ece484-site/assets/pdfs/fall-2026/Fall26-Lecture13_localization.pdf">slides</a> -->
+      <br><a href="/ece484-site/assets/pdfs/fall-2026/Fall26_Lecture13_Localization.pdf">slides</a>
       </td>
       <td>10/29</td>
       <td>Filtering 4: review; SLAM
