@@ -159,7 +159,7 @@
       </td>
       <td>10/29</td>
       <td>Filtering 4: review; SLAM
-      <!-- <br><a href="/ece484-site/assets/pdfs/fall-2026/Fall26-Lecture14_SLAM.pdf">slides</a> -->
+      <br><a href="/ece484-site/assets/pdfs/fall-2026/Fall26_Lecture14_SLAM.pdf">slides</a>
       </td>
       <td>10/30</td>
       <td>Open Lab</td>
