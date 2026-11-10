@@ -179,7 +179,7 @@
       <td>12</td>
       <td>11/10</td>
       <td>Planning 1: graph search, uniform cost search
-      <!-- <br><a href="/ece484-site/assets/pdfs/fall-2026/Fall26-Lecture15_search_plan.pdf">slides</a> -->
+      <br><a href="/ece484-site/assets/pdfs/fall-2026/Fall26_Lecture15_Search_Planning.pdf">slides</a>
       </td>
       <td>11/12</td>
       <td>Planning 2: A*, optimal search, cost-to-go heuristics
