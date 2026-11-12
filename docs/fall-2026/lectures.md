@@ -183,7 +183,7 @@
       </td>
       <td>11/12</td>
       <td>Planning 2: A*, optimal search, cost-to-go heuristics
-      <!-- <br><a href="/ece484-site/assets/pdfs/fall-2026/Fall26_Lecture16_Aplan.pdf">slides</a> -->
+      <br><a href="/ece484-site/assets/pdfs/fall-2026/Fall26_Lecture16_Aplan.pdf">slides</a>
       </td>
       <td>11/13</td>
       <td>MP3 Demo (MP3 due)</td>
