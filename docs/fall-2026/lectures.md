@@ -193,7 +193,7 @@
       <td>13</td>
       <td>11/17</td>
       <td>Planning 3: hybrid A*, PRM, probabilistic completeness
-      <!-- <br><a href="/ece484-site/assets/pdfs/fall-2026/Fall26_Lecture17_HybridAStar_PRM.pdf">slides</a> -->
+      <br><a href="/ece484-site/assets/pdfs/fall-2026/Fall26_Lecture17_HybridAStar_PRM.pdf">slides</a>
       </td>
       <td>11/19</td>
       <td>Planning 4: RRT, RRG, asymptotic optimality
